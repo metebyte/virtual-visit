@@ -1,0 +1,38 @@
+{
+  "name": "virtual-visit",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "nx serve",
+    "build": "nx build",
+    "test": "nx test"
+  },
+  "private": true,
+  "devDependencies": {
+    "@nrwl/cli": "13.1.2",
+    "@nrwl/eslint-plugin-nx": "13.1.2",
+    "@nrwl/jest": "13.1.2",
+    "@nrwl/linter": "13.1.2",
+    "@nrwl/node": "^13.1.2",
+    "@nrwl/tao": "13.1.2",
+    "@nrwl/workspace": "13.1.2",
+    "@types/jest": "27.0.2",
+    "@types/node": "14.14.33",
+    "@types/selenium-webdriver": "^4.0.16",
+    "@typescript-eslint/eslint-plugin": "~4.33.0",
+    "@typescript-eslint/parser": "~4.33.0",
+    "eslint": "7.32.0",
+    "eslint-config-prettier": "8.1.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jest": "27.2.3",
+    "prettier": "^2.3.1",
+    "prettier-eslint": "^13.0.0",
+    "selenium-webdriver": "^4.0.0",
+    "ts-jest": "27.0.5",
+    "typescript": "~4.3.5"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.7",
+    "tslib": "^2.0.0"
+  }
+}

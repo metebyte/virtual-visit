@@ -1,0 +1,44 @@
+{
+  "root": "apps/automation",
+  "sourceRoot": "apps/automation/src",
+  "projectType": "application",
+  "targets": {
+    "build": {
+      "executor": "@nrwl/node:build",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/apps/automation",
+        "main": "apps/automation/src/main.ts",
+        "tsConfig": "apps/automation/tsconfig.app.json",
+        "assets": ["apps/automation/src/assets"]
+      },
+      "configurations": {
+        "production": {
+          "optimization": true,
+          "extractLicenses": true,
+          "inspect": false,
+          "fileReplacements": [
+            {
+              "replace": "apps/automation/src/environments/environment.ts",
+              "with": "apps/automation/src/environments/environment.prod.ts"
+            }
+          ]
+        }
+      }
+    },
+    "serve": {
+      "executor": "@nrwl/node:execute",
+      "options": {
+        "buildTarget": "automation:build"
+      }
+    },
+    "lint": {
+      "executor": "@nrwl/linter:eslint",
+      "outputs": ["{options.outputFile}"],
+      "options": {
+        "lintFilePatterns": ["apps/automation/**/*.ts"]
+      }
+    }
+  },
+  "tags": []
+}
