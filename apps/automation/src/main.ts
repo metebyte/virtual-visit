@@ -13,8 +13,8 @@ let number = 1
 
 asyncForEach(dealerData, async (data) => {
   if (number == 1) await logInPMTEP()
-  console.log(`${number++} - ${data.POSCode} - ${data.CustomerName}`)
-  await doSteps(data.POSCode)
+  console.log(`${number++} - ${data.CustomerCode} - ${data.CustomerName}`)
+  await doSteps(data.CustomerCode)
 })
 
 async function asyncForEach(array, callback) {

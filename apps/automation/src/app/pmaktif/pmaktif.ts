@@ -29,15 +29,6 @@ export class PMAKTIF {
       )
       .sendKeys(environment.PMAKTIF_PASSWORD, Key.ENTER)
 
-    try {
-      await this.browser.wait(
-        until.elementLocated(PMAKTIFLocators.dealerNotFound)
-      )
-      return
-    } catch (error: NoSuchElementError) {
-      console.log("Dealer couldn't found element isn't present.")
-    }
-
     await this.browser.wait(until.urlContains('feed'), 10000).then(async () => {
       await this.browser
         .wait(until.elementLocated(PMAKTIFLocators.virtualVisitButton), 10000)

@@ -61,12 +61,13 @@ export class PMTEP {
       )
       .sendKeys(phoneNumber)
       .then(async () => {
-        await this.browser.sleep(1500)
+        await this.browser.sleep(3000)
         await this.browser
           .findElement(PMTEPLocators.searchByPhoneNumberInput)
           .sendKeys(Key.ENTER)
       })
 
+    await this.browser.sleep(5000)
     await this.browser
       .wait(
         until.elementIsVisible(

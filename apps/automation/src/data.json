@@ -1,2172 +1,482 @@
 [
   {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E003518",
-    "CustomerName": "CEMİL ALTUN"
+    "CustomerCode": "D5D000541",
+    "CustomerName": "HAYRETTİN ÖZEN",
+    "CustomerPhoneNumber": "5386179514",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5J002970",
-    "CustomerName": "CİHAT YILMAZ"
+    "CustomerCode": "D5D089322",
+    "CustomerName": "HÜSEYİN ELMALI",
+    "CustomerPhoneNumber": "5373040568",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E001356",
-    "CustomerName": "COŞKUN AKTAŞ"
+    "CustomerCode": "D5E148683",
+    "CustomerName": "HÜSREV AKAR",
+    "CustomerPhoneNumber": "5316312681",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E001748",
-    "CustomerName": "ÇETİN BAYRAK"
+    "CustomerCode": "D5D113989",
+    "CustomerName": "İBRAHİM KASAP",
+    "CustomerPhoneNumber": "5334141478",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E173173",
-    "CustomerName": "ÇETİN BEKTAŞ"
+    "CustomerCode": "050016630",
+    "CustomerName": "İBRAHİM ÖZKUL",
+    "CustomerPhoneNumber": "5053851777",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E000846",
-    "CustomerName": "DERYA ÇAMUR"
+    "CustomerCode": "D5D082291",
+    "CustomerName": "İHSAN AKTÜRK",
+    "CustomerPhoneNumber": "5368934302",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E120100",
-    "CustomerName": "DERYA DEREKÖY"
+    "CustomerCode": "D5D003034",
+    "CustomerName": "İLKNUR ŞAHİN",
+    "CustomerPhoneNumber": "5357787818",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E002560",
-    "CustomerName": "DERYA KIZAKLI"
+    "CustomerCode": "D5D000256",
+    "CustomerName": "İSA KASAP",
+    "CustomerPhoneNumber": "5423714497",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E002801",
-    "CustomerName": "DİLAVER YILMAZ"
+    "CustomerCode": "050016530",
+    "CustomerName": "İSAK AYDIN",
+    "CustomerPhoneNumber": "5368398039",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E002702",
-    "CustomerName": "DURSUN DALKIÇ"
+    "CustomerCode": "050016552",
+    "CustomerName": "İSMAİL AKSU",
+    "CustomerPhoneNumber": "5362194459",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E002350",
-    "CustomerName": "EMİNE GÜLEÇ"
+    "CustomerCode": "D5D099185",
+    "CustomerName": "İSMAİL GÜLTEKİN",
+    "CustomerPhoneNumber": "5452039682",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E135735",
-    "CustomerName": "EMİNE VARAN YALÇIN"
+    "CustomerCode": "D5D113925",
+    "CustomerName": "İSMAİL TÜRKYILMAZ",
+    "CustomerPhoneNumber": "5326865191",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5J003138",
-    "CustomerName": "EMRAH HAKALMAZ"
+    "CustomerCode": "D5D020514",
+    "CustomerName": "KEMAL AKAR",
+    "CustomerPhoneNumber": "5434880323",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E003234",
-    "CustomerName": "ERCAN KİREMİTÇİ"
+    "CustomerCode": "D5D003063",
+    "CustomerName": "KENAN ÖZDEMİR",
+    "CustomerPhoneNumber": "5318464318",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E001999",
-    "CustomerName": "ERDAL DUMAN"
+    "CustomerCode": "D5D002673",
+    "CustomerName": "KÖKSAL  ÖZKAYA",
+    "CustomerPhoneNumber": "5375150323",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E003718",
-    "CustomerName": "ERGİN KANDEMİR"
+    "CustomerCode": "D5D000066",
+    "CustomerName": "MAHMUT TAHMAZOĞLU",
+    "CustomerPhoneNumber": "5556769575",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E004822",
-    "CustomerName": "ERGÜL AKKAYA"
+    "CustomerCode": "D5D000280",
+    "CustomerName": "MAHMUT YILMAZ-1",
+    "CustomerPhoneNumber": "5308849782",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E003604",
-    "CustomerName": "EROL ŞAHİN (SEÇ MARKET)"
+    "CustomerCode": "D5D000090",
+    "CustomerName": "MAZHAR KABASAKAL",
+    "CustomerPhoneNumber": "5436672297",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E166044",
-    "CustomerName": "ESRA DURAK"
+    "CustomerCode": "D5E132558",
+    "CustomerName": "MD MEDİZ GIDA İNŞ. TUR. VE PAZ. SAN.TİC.LTD.ŞTİ.",
+    "CustomerPhoneNumber": "5337745050",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E073147",
-    "CustomerName": "ESRA HANCIOĞLU"
+    "CustomerCode": "050016547",
+    "CustomerName": "MEHMET CAN ÇAKMAK",
+    "CustomerPhoneNumber": "5378701515",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E003553",
-    "CustomerName": "FATİH BOZTEPE"
+    "CustomerCode": "D5E174981",
+    "CustomerName": "MELAHAT ALTÜRK",
+    "CustomerPhoneNumber": "05306469028",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E151281",
-    "CustomerName": "FATMA ÇİÇEK"
+    "CustomerCode": "D5D004836",
+    "CustomerName": "MERAL ATAMER",
+    "CustomerPhoneNumber": "5388154186",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E170335",
-    "CustomerName": "FATMA SARI"
+    "CustomerCode": "D5D000425",
+    "CustomerName": "MESUT CAN",
+    "CustomerPhoneNumber": "5318268676",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E003378",
-    "CustomerName": "FATSA ÖZDENİZ GIDA TÜK.ÜRN.SAN. VE TİC.LTD.ŞTİ."
+    "CustomerCode": "D5E145095",
+    "CustomerName": "METİN AYHAN",
+    "CustomerPhoneNumber": "5378281440",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E177789",
-    "CustomerName": "FURKAN KOŞAK"
+    "CustomerCode": "D5E153441",
+    "CustomerName": "MEYSE HİSARKAYA",
+    "CustomerPhoneNumber": "5443391065",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E062989",
-    "CustomerName": "GÖKHAN BİLİM"
+    "CustomerCode": "D5E161046",
+    "CustomerName": "MİRAÇ ATLI",
+    "CustomerPhoneNumber": "05308929528",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E002459",
-    "CustomerName": "GÖKSEL ÇAVUŞOĞLU"
+    "CustomerCode": "D5D002635",
+    "CustomerName": "MUAMMER ŞEN",
+    "CustomerPhoneNumber": "5437441108",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E000895",
-    "CustomerName": "GÜNGÖR YÜCEL"
+    "CustomerCode": "D5D002870",
+    "CustomerName": "MURAT ARSLAN",
+    "CustomerPhoneNumber": "5369556592",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E051710",
-    "CustomerName": "GÜRBÜZ ÖZTÜRK"
+    "CustomerCode": "D5D002878",
+    "CustomerName": "MURAT KARACA",
+    "CustomerPhoneNumber": "5307902528",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E057277",
-    "CustomerName": "GÜRHAN KADİR BAYRAKTAR"
+    "CustomerCode": "050016616",
+    "CustomerName": "MUSTAFA ERAY",
+    "CustomerPhoneNumber": "5305511526",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E003310",
-    "CustomerName": "GÜZELHAN İNŞ. LTD. ŞTİ"
+    "CustomerCode": "D5D072982",
+    "CustomerName": "MUSTAFA KEMAL ŞENEL",
+    "CustomerPhoneNumber": "5437294943",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E133699",
-    "CustomerName": "HALİL İBRAHİM CON"
+    "CustomerCode": "D5D002729",
+    "CustomerName": "MUSTAFA POSLU",
+    "CustomerPhoneNumber": "5422904348",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E003962",
-    "CustomerName": "HALİT TAHNAL"
+    "CustomerCode": "050016545",
+    "CustomerName": "NEZİHA ERTÜRK",
+    "CustomerPhoneNumber": "5357617825",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E001282",
-    "CustomerName": "HAMİ VAYNİ"
+    "CustomerCode": "D5E160491",
+    "CustomerName": "NURİ KİRAZ",
+    "CustomerPhoneNumber": "05308832934",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E134836",
-    "CustomerName": "HANIM GÜNEY"
+    "CustomerCode": "D5E136799",
+    "CustomerName": "OĞUZHAN KOCUK",
+    "CustomerPhoneNumber": "5456488315",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E009404",
-    "CustomerName": "HANİFE ÖZTÜRK"
+    "CustomerCode": "D5E137460",
+    "CustomerName": "ONUR DOBOĞLU",
+    "CustomerPhoneNumber": "5309216647",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E112936",
-    "CustomerName": "HASAN ÇATAKLI"
+    "CustomerCode": "050016555",
+    "CustomerName": "OSMAN ALTIYAPRAK",
+    "CustomerPhoneNumber": "5305499308",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E002632",
-    "CustomerName": "HASAN ÇİÇEK"
+    "CustomerCode": "D5D113988",
+    "CustomerName": "ÖMÜR TURHAN",
+    "CustomerPhoneNumber": "5302931360",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E001280",
-    "CustomerName": "HASAN KESKİN"
+    "CustomerCode": "050016533",
+    "CustomerName": "ÖZAY DEMİR",
+    "CustomerPhoneNumber": "5327606054",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "050019846",
-    "CustomerName": "HASAN ÖNAL"
+    "CustomerCode": "D5D000417",
+    "CustomerName": "SABRİYE USTA",
+    "CustomerPhoneNumber": "5439348616",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E002091",
-    "CustomerName": "HASAN SARITAŞ"
+    "CustomerCode": "D5E132749",
+    "CustomerName": "SAKLI İNŞ. TAAH. VE MÜH. SAN. VE TIC. LTD. ŞTİ.",
+    "CustomerPhoneNumber": "5324335425",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "050019100",
-    "CustomerName": "HASAN YILDIRIM"
+    "CustomerCode": "D5D002658",
+    "CustomerName": "SALİH KESKİN",
+    "CustomerPhoneNumber": "5353083176",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E002756",
-    "CustomerName": "HASBİ AYDIN"
+    "CustomerCode": "D5D002840",
+    "CustomerName": "SALİH SEVİNÇ",
+    "CustomerPhoneNumber": "5395827828",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5J003244",
-    "CustomerName": "HASYILMAZLAR PET.ÜRN.İNŞ.NAK.TUR.REK.İŞ.LTD.ŞTİ."
+    "CustomerCode": "050016752",
+    "CustomerName": "SAZBEYİ YAKIT SAN. VE TİC.A.Ş.",
+    "CustomerPhoneNumber": "5462026620",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E108381",
-    "CustomerName": "HATİCE CERRAHOĞLU"
+    "CustomerCode": "D5D102451",
+    "CustomerName": "SEDAT DAMCI GIDA SAN. IÇ VE DIS TIC. LTD. STI.",
+    "CustomerPhoneNumber": "5425878841",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E012624",
-    "CustomerName": "HATİCE DURAN"
+    "CustomerCode": "D5D105702",
+    "CustomerName": "SELİME AKSU",
+    "CustomerPhoneNumber": "5359558756",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5J003100",
-    "CustomerName": "HİCABİ YILDIZ"
+    "CustomerCode": "050016636",
+    "CustomerName": "SEVİNÇ GIDA SAN. PAZ. LTD. ŞTİ.",
+    "CustomerPhoneNumber": "5322916665",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E003428",
-    "CustomerName": "İLHAMİ ŞİRİN"
+    "CustomerCode": "D5E141782",
+    "CustomerName": "SEZAİ ÇOBAN",
+    "CustomerPhoneNumber": "5445561409",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E040022",
-    "CustomerName": "İLHAN PETROL ÜRN.TİC.LTD.ŞTİ."
+    "CustomerCode": "D5D002735",
+    "CustomerName": "SEZGİN DEMİRKILIÇ",
+    "CustomerPhoneNumber": "5324259083",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E003537",
-    "CustomerName": "İLK GÜNEŞ PETROL ÜR.GIDA İNŞ.NAK.SAN.TİC.LTD.ŞTİ."
+    "CustomerCode": "D5E147498",
+    "CustomerName": "SİBEL DERVİŞOĞLU",
+    "CustomerPhoneNumber": "5454176914",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E019679",
-    "CustomerName": "İLKNUR YILDIRIM"
+    "CustomerCode": "050016776",
+    "CustomerName": "SİPAHİOĞLU MARKET GIDA SAN.TİC.LTD.ŞTİ.",
+    "CustomerPhoneNumber": "5355638807",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E025524",
-    "CustomerName": "İLYAS DURGUN"
+    "CustomerCode": "D5D098444",
+    "CustomerName": "SONER DEMİRALP",
+    "CustomerPhoneNumber": "5434145728",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5J002971",
-    "CustomerName": "İSA KOCAKOÇ"
+    "CustomerCode": "D5D083280",
+    "CustomerName": "SUAT ÖZBAY",
+    "CustomerPhoneNumber": "5379117232",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E000401",
-    "CustomerName": "İSMAİL ÇARKÇI"
+    "CustomerCode": "D5E127760",
+    "CustomerName": "ŞAHİN DEMİRAY",
+    "CustomerPhoneNumber": "5320501140",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E063732",
-    "CustomerName": "İSMAİL ÇARKÇI (2)"
+    "CustomerCode": "D5D000431",
+    "CustomerName": "ŞAHİN ÖZDEM",
+    "CustomerPhoneNumber": "5338119403",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E002519",
-    "CustomerName": "İSMAİL TORUNOGLU"
+    "CustomerCode": "D5D016221",
+    "CustomerName": "ŞENEL KARAASLAN",
+    "CustomerPhoneNumber": "5378366277",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E003855",
-    "CustomerName": "İSMAİL YILDIZ"
+    "CustomerCode": "D5D002853",
+    "CustomerName": "ŞENOL KABASAKAL",
+    "CustomerPhoneNumber": "5388983191",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E136976",
-    "CustomerName": "İSMET COŞKAN"
+    "CustomerCode": "D5E175159",
+    "CustomerName": "ŞÜKRÜ DEMİR",
+    "CustomerPhoneNumber": "05438730200",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E003371",
-    "CustomerName": "KADİR KARAYİĞİT"
+    "CustomerCode": "D5D002609",
+    "CustomerName": "TUNCAY ÖZ",
+    "CustomerPhoneNumber": "5322623332",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E001756",
-    "CustomerName": "KADİR ŞENYURT"
+    "CustomerCode": "D5D049260",
+    "CustomerName": "TUNCAY ÖZ - 2 -",
+    "CustomerPhoneNumber": "5442282807",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E001578",
-    "CustomerName": "KEMAL ŞİMŞEK"
+    "CustomerCode": "D5D097178",
+    "CustomerName": "TUNCER DAMCI",
+    "CustomerPhoneNumber": "5448772828",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E130635",
-    "CustomerName": "KENAN BARAN-2"
+    "CustomerCode": "D5E135589",
+    "CustomerName": "TURGAY BEKDEMİR",
+    "CustomerPhoneNumber": "5415186828",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E122400",
-    "CustomerName": "KERİM GEDİK (SEÇ MARKET)"
+    "CustomerCode": "D5D002817",
+    "CustomerName": "TURGUT BAY",
+    "CustomerPhoneNumber": "5444457457",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E130616",
-    "CustomerName": "KUTBETTİN SERİN"
+    "CustomerCode": "D5E164964",
+    "CustomerName": "UFUK SAYKAYA",
+    "CustomerPhoneNumber": "05447938361",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "050019009",
-    "CustomerName": "LEVENT ÇABUK"
+    "CustomerCode": "D5D000092",
+    "CustomerName": "UĞUR VEYİSOĞLU",
+    "CustomerPhoneNumber": "5382404797",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E015730",
-    "CustomerName": "MEHMET ALİ MÜFTÜOĞLU"
+    "CustomerCode": "050016786",
+    "CustomerName": "ULAŞ DEMİREL",
+    "CustomerPhoneNumber": "5077795989",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E004684",
-    "CustomerName": "MEHMET AYDIN"
+    "CustomerCode": "D5D002824",
+    "CustomerName": "UMUT CAN ALAŞALVAR",
+    "CustomerPhoneNumber": "5468268688",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5J003108",
-    "CustomerName": "MEHMET CİHAN"
+    "CustomerCode": "D5D002813",
+    "CustomerName": "UZUNOĞLU HAY.GID.TEM.İNŞ.ELEKT.TURZ.VE DAY.TÜK.MAD.SAN.VE TİC.LTD.ŞTİ.",
+    "CustomerPhoneNumber": "5446546782",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E002086",
-    "CustomerName": "MEHMET EZMİ"
+    "CustomerCode": "D5E140952",
+    "CustomerName": "VOLKAN ZIVALI",
+    "CustomerPhoneNumber": "5433890804",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E065829",
-    "CustomerName": "MEHMET GÜVEN"
+    "CustomerCode": "D5E177739",
+    "CustomerName": "YAĞIZ YAŞAR DUR",
+    "CustomerPhoneNumber": "05364704070",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E153500",
-    "CustomerName": "MEHMET UYSAL"
+    "CustomerCode": "D5E135443",
+    "CustomerName": "YAHYA ÇAĞLAR",
+    "CustomerPhoneNumber": "5511246500",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E147391",
-    "CustomerName": "MEHMET ZÜLFÜ ASLAN"
+    "CustomerCode": "D5D002763",
+    "CustomerName": "YAKUP BEKDEMİR",
+    "CustomerPhoneNumber": "5414548828",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E152674",
-    "CustomerName": "MELDA KAYA"
+    "CustomerCode": "D5E166062",
+    "CustomerName": "YAVUZ KIRÖMEROĞLU",
+    "CustomerPhoneNumber": "05302942528",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E115442",
-    "CustomerName": "MERTCAN YILDIZ"
+    "CustomerCode": "D5D032309",
+    "CustomerName": "YUNUS APAYDIN MARKET GIDA SAN. VE TİC.LTD.ŞTİ.",
+    "CustomerPhoneNumber": "5343967010",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E003167",
-    "CustomerName": "MERVE AKSU"
+    "CustomerCode": "D5D000043",
+    "CustomerName": "YURDUŞEN DEMİRAL",
+    "CustomerPhoneNumber": "5358127300",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E087309",
-    "CustomerName": "MERYEM TÜYSÜZ"
+    "CustomerCode": "D5D002760",
+    "CustomerName": "YÜKSEL KABASAKAL",
+    "CustomerPhoneNumber": "5362636016",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E002536",
-    "CustomerName": "METE KIYAK"
+    "CustomerCode": "D5E161874",
+    "CustomerName": "ZEKİ KARA",
+    "CustomerPhoneNumber": "05416207262",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E163311",
-    "CustomerName": "MEVLÜT ÇITAK"
+    "CustomerCode": "D5D000359",
+    "CustomerName": "ZEKİYE ALTI",
+    "CustomerPhoneNumber": "5357008160",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E003502",
-    "CustomerName": "MEVLÜT YILMAZ"
+    "CustomerCode": "D5D113987",
+    "CustomerName": "ZELİHA KAYA",
+    "CustomerPhoneNumber": "05412832803",
+    "qTerritoryCode": "TERR050601"
   },
   {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E001964",
-    "CustomerName": "MUAMMER COŞKUN"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E000369",
-    "CustomerName": "MURAT BEKGÖZ"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E002522",
-    "CustomerName": "MURAT DURGUN"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E094566",
-    "CustomerName": "MURAT İNAN"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E002243",
-    "CustomerName": "MURAT KAVCI"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E144065",
-    "CustomerName": "MURAT KIRAN"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E003935",
-    "CustomerName": "MURAT SEVİNÇ"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E000249",
-    "CustomerName": "MURAT ŞENSOY"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E127552",
-    "CustomerName": "MUSA HÜSEM"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E014132",
-    "CustomerName": "MUSTAFA AKKAYA"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5J002995",
-    "CustomerName": "MUSTAFA AKKAYA"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E002570",
-    "CustomerName": "MUSTAFA ALTUNOK"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E056739",
-    "CustomerName": "MUSTAFA ERTAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E000558",
-    "CustomerName": "MUSTAFA İNAN"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E162645",
-    "CustomerName": "MUSTAFA TENLİK"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E003842",
-    "CustomerName": "MUSTAFA YILDIZ"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E002017",
-    "CustomerName": "NAFIZ TIKIÇOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E153660",
-    "CustomerName": "NAMİ ŞAHİN"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E004003",
-    "CustomerName": "NEVİN SERDAROĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E150473",
-    "CustomerName": "NİHAT KALYONCU"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E093593",
-    "CustomerName": "NURETTİN OKUYAN"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E002613",
-    "CustomerName": "NURSEL ÜSTÜNDAĞ"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E002370",
-    "CustomerName": "NURULLAH EKİNCİ"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E023027",
-    "CustomerName": "OĞUZ-BARAN TUR.İNŞ.NAK.GIDA SAN. VE TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E094792",
-    "CustomerName": "OĞUZHAN FELEK"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E149101",
-    "CustomerName": "OKAN GÜNDÜZ"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E003355",
-    "CustomerName": "OKTAY SAYGI"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E004006",
-    "CustomerName": "ONUR YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E019359",
-    "CustomerName": "ORHAN BALTACI"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E002327",
-    "CustomerName": "ÖZLEM GIDA TAR.ÜRN.NAK.SAN. VE TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5J002990",
-    "CustomerName": "ÖZTAŞ PETROL TAR.ÜRN.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E001345",
-    "CustomerName": "POYRAZ PETROL TUR.GIDA İNŞ.TAAH.PAZ.NAK.TİC. VE SAN.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E002013",
-    "CustomerName": "RAHİME PİROĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E004023",
-    "CustomerName": "RAMAZAN FAKİROĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E036005",
-    "CustomerName": "RAMAZAN KOLCULAR"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E002385",
-    "CustomerName": "RAMAZAN ÖZÇELİK"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E151689",
-    "CustomerName": "RUKİYE DEMİREL EKER"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E117967",
-    "CustomerName": "SAMET MEMİŞ"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E002412",
-    "CustomerName": "SANCAR AKPINAR"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E091277",
-    "CustomerName": "SAVAŞ ÖKSÜZ"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E003227",
-    "CustomerName": "SEBAHATTİN LATİF"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E147496",
-    "CustomerName": "SEFA GÜNAY"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E004761",
-    "CustomerName": "SENAYİ AYDOĞDU"
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E000135",
-    "CustomerName": "SERHAT YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E120099",
-    "CustomerName": "SERKAN ŞEYHUN"
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E013380",
-    "CustomerName": "SERPİL ŞANLI"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E123105",
-    "CustomerName": "SEYFULLAH GÜDEK"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E027674",
-    "CustomerName": "SEYHAN OKUYUCU"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E117038",
-    "CustomerName": "SEYİT ALİ YALÇIN"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E113978",
-    "CustomerName": "SEZAYİ AKSU"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E002258",
-    "CustomerName": "SEZGİN AYDINLIK"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E112531",
-    "CustomerName": "SİNAN DEREKÖY"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E169858",
-    "CustomerName": "SONER AKPINAR"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E023141",
-    "CustomerName": "SONGÜL KULAKÇI"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E070677",
-    "CustomerName": "ŞAKİR ÇELİK"
-  },
-  {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E111015",
-    "CustomerName": "ŞENEL KAHRAMAN"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E067430",
-    "CustomerName": "ŞEREF TOKAÇ"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E144066",
-    "CustomerName": "ŞERİFE İLHAN"
-  },
-  {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E105628",
-    "CustomerName": "ŞÜKRAN AYDIN ALTUNTAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E169153",
-    "CustomerName": "ŞÜKRAN BAYRAM"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E015261",
-    "CustomerName": "ŞÜKRÜ ARSLAN"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E127346",
-    "CustomerName": "ŞÜKRÜ ÇALGICI"
-  },
-  {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E119079",
-    "CustomerName": "ŞÜKRÜ DEREKÖY"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E021844",
-    "CustomerName": "TANER YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5J003115",
-    "CustomerName": "TEKİN MEMİŞ"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E066763",
-    "CustomerName": "TOPÇUOĞULLARI ENR.İNŞ.PET.TAAH.HİZ.SAN.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E115950",
-    "CustomerName": "TOPKAYALAR GIDA PAZ.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E016261",
-    "CustomerName": "TUĞBA YAKAN"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E023987",
-    "CustomerName": "TURGAY İBRAHİM ÖZOĞUL"
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E000188",
-    "CustomerName": "UFUK ODABAŞI"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E135123",
-    "CustomerName": "UĞUR AVCI"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E143140",
-    "CustomerName": "UĞUR ELMAS"
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E001178",
-    "CustomerName": "UĞUR ULUDÜZ"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E098830",
-    "CustomerName": "ULAŞ ÇEKİÇ"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E003020",
-    "CustomerName": "ULUBEY PETROL LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E146796",
-    "CustomerName": "ULUHAN AYDIK"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E003374",
-    "CustomerName": "ÜMİT AK"
-  },
-  {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E039837",
-    "CustomerName": "ÜMRAN ÇAKIR"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E157865",
-    "CustomerName": "ÜNÇAĞDAŞ GIDA İNŞ.SAN.VE TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E147392",
-    "CustomerName": "VERİM PETROL ÜRN.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E106356",
-    "CustomerName": "VONA BALKAYMAK"
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E130388",
-    "CustomerName": "YAKUP VARLIK"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E040024",
-    "CustomerName": "YASEMİN SÜZEN"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E003901",
-    "CustomerName": "YAŞAR İMECE"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E000619",
-    "CustomerName": "YAŞAR YANIK"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E019658",
-    "CustomerName": "YILDIRAY ÇORUM"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E076180",
-    "CustomerName": "YUMAKLAR PET.İNŞ.NAK.İÇ VE DIŞ TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E117731",
-    "CustomerName": "YUNUS EMRE EFİLOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5E003834",
-    "CustomerName": "YUSUF ARSLAN"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E003252",
-    "CustomerName": "YÜCEL KOCA"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E002783",
-    "CustomerName": "YÜKSEL CÜREBAL"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E002784",
-    "CustomerName": "YÜKSEL GÜMÜŞ"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E001400",
-    "CustomerName": "YÜKSEL KARAMAN"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E002573",
-    "CustomerName": "YÜKSEL OHTAMIŞ"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5E002561",
-    "CustomerName": "ZEKERİYA KURU"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E002758",
-    "CustomerName": "ZEKERiYA SARIKOCA"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D001793",
-    "CustomerName": "ABDULKADİR GEYLANİ ÖNER"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D001593",
-    "CustomerName": "ABDULLAH BAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "050016523",
-    "CustomerName": "ABDULLAH BIÇAKÇI"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E173714",
-    "CustomerName": "ABDULLAH BULAT"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D002654",
-    "CustomerName": "ABDULLAH KİSBET"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D000318",
-    "CustomerName": "ABDULLAH TANRIVERDİ"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5E154025",
-    "CustomerName": "ABDULLAH YILDIRIM"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D009795",
-    "CustomerName": "ABDULLAH YİĞİT"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5D117583",
-    "CustomerName": "ABDURRAHMAN SALMAN"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D002386",
-    "CustomerName": "ADEM AKGÜN"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5D000958",
-    "CustomerName": "ADEM AYDEMİR"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5D001830",
-    "CustomerName": "ADEM KÜÇÜKOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D113509",
-    "CustomerName": "ADEM MUTLU"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5D002196",
-    "CustomerName": "ADEM SÜL"
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5E123142",
-    "CustomerName": "ADİL ŞİMŞEK"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D097370",
-    "CustomerName": "AHMET BİNEN"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E136683",
-    "CustomerName": "AHMET KILIÇ"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D002876",
-    "CustomerName": "AHMET TURAN KARA"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D000724",
-    "CustomerName": "AKIN KOÇ"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "050016586",
-    "CustomerName": "ALAHETTİN CEBECİ"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5D066384",
-    "CustomerName": "ALİ EKİNCİ"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D001149",
-    "CustomerName": "ALİ İHSAN BOZ"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5E135179",
-    "CustomerName": "ALİ KEMAL TETİK"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D088278",
-    "CustomerName": "ALİ ÖZTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E169808",
-    "CustomerName": "ALİ YANIK"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D001146",
-    "CustomerName": "ALİM KÜÇÜK"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D117168",
-    "CustomerName": "ALPARSLAN KARAHAN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D053304",
-    "CustomerName": "ANIL İBİÇOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D001522",
-    "CustomerName": "APAYDIN PERAKENDE GIDA TUR.PAZ.VE TİC.LMTD.ŞTİ"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002038",
-    "CustomerName": "APAYDIN PERAKENDE GIDA TUR.SAN. VE TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5E168053",
-    "CustomerName": "APTÜLKADİR GÜLLER"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E126922",
-    "CustomerName": "ARNAK TUR.PAZ.veGIDA SAN.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5D056104",
-    "CustomerName": "ARSLAN DERVİŞOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D096775",
-    "CustomerName": "ARSLAN ÖZTÜRK GIDA TARIM ÜRÜNLERİ"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D003003",
-    "CustomerName": "ARSLAN YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D113990",
-    "CustomerName": "ASLI AKSU"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D002017",
-    "CustomerName": "AYDIN BUZ"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "050016534",
-    "CustomerName": "AYDIN ELLİBEŞ"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "050016833",
-    "CustomerName": "AYDIN ÖZGÜL"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D004838",
-    "CustomerName": "AYHAN AKBAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D002725",
-    "CustomerName": "AYHAN AVCI"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D002313",
-    "CustomerName": "AYHAN EKMEKCİ"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E128068",
-    "CustomerName": "AYHAN PEKER"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D3G002146",
-    "CustomerName": "AYLA GÜLTEKİN"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D117063",
-    "CustomerName": "AYŞE AKSU"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D3G002091",
-    "CustomerName": "AYŞE ATAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D002520",
-    "CustomerName": "AYŞE KAYA"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5D000716",
-    "CustomerName": "AYŞEGÜL SEDA SARI"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5D002572",
-    "CustomerName": "AYŞENUR KASER"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D002238",
-    "CustomerName": "AZİZ BEYAZ"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D000972",
-    "CustomerName": "AZİZ BODUR"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D3G119426",
-    "CustomerName": "BAHATTİN KANGAL"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5E128927",
-    "CustomerName": "BAHTİYAR BEBEK"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E130564",
-    "CustomerName": "BAHTİYAR ÇAKMAK"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D001828",
-    "CustomerName": "BAHTİYAR YETKİN"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5E122743",
-    "CustomerName": "BALTUR NAKLİYE GIDA İNŞ.SAN.VETİC.LTD.ŞT"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D003074",
-    "CustomerName": "BARIŞ ASLAN"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D001809",
-    "CustomerName": "BAYRAM CANTAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D001409",
-    "CustomerName": "BAYRAM ÖZKAYA"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5D000015",
-    "CustomerName": "BERATİ YÜCEL"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "050016949",
-    "CustomerName": "BİLAL MERİ"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5D070084",
-    "CustomerName": "BİLAL ÖDUL"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D117516",
-    "CustomerName": "BURHAN ALÇELİK"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5E133869",
-    "CustomerName": "BÜLENT ŞAHAN"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5D113994",
-    "CustomerName": "CELAL CEM YANIK"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5D000320",
-    "CustomerName": "CEM KARADUMAN"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E141031",
-    "CustomerName": "CEMAL GÜLEÇ"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E156965",
-    "CustomerName": "CEMAL TAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5D088614",
-    "CustomerName": "CEMİL ALTUN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5E123348",
-    "CustomerName": "CEVDET BAŞOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D001835",
-    "CustomerName": "CEVDET ORUÇ"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D002759",
-    "CustomerName": "CİHAN YAYLA"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E145324",
-    "CustomerName": "CİHAT YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5E174164",
-    "CustomerName": "COŞKUN AKTAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "050016609",
-    "CustomerName": "CÜNEYT TAMDOĞAN"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5D002082",
-    "CustomerName": "ÇETİN BAYRAK"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D000722",
-    "CustomerName": "ÇINAR SANAT PROD.İLE.EĞİ.İNŞ.GID.TUR.PAZ.SAN.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D000885",
-    "CustomerName": "ÇOTANAK PETROL ÜR.NAK.İNŞ.TUR.GIDA KUYUMCULUK SAN.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050607",
-    "POSCode": "D5E159063",
-    "CustomerName": "DAVUT KAYA"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D004638",
-    "CustomerName": "DEMİRAY ÇIRACI"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5D116261",
-    "CustomerName": "DERYA ÇAMUR"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "050016773",
-    "CustomerName": "DERYA DEREKÖY"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D059797",
-    "CustomerName": "DERYA KIZAKLI"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E141165",
-    "CustomerName": "DİLAVER YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050607",
-    "POSCode": "D5D087287",
-    "CustomerName": "DOĞAN BİNGÖL"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "050016713",
-    "CustomerName": "DURMUŞ ERGÜNER"
-  },
-  {
-    "TerritoryCode": "TERR050607",
-    "POSCode": "D5E123144",
-    "CustomerName": "DURMUŞ YALLI"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D097517",
-    "CustomerName": "DURSUN DALKIÇ"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5E139562",
-    "CustomerName": "EDA KAHRAMAN PATAN"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5E142927",
-    "CustomerName": "EMİN AKKAYA"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D3G019275",
-    "CustomerName": "EMİN KARAAHMETOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5E170926",
-    "CustomerName": "EMİN ŞENEL İNŞ.GIDA PETROL ORMAN ÜRÜNLERİ OTO.NAK.SAN.TİC.LTD.ŞTİ"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D002617",
-    "CustomerName": "EMİN VURGUN"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5D068639",
-    "CustomerName": "EMİNE GÜLEÇ"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5D081525",
-    "CustomerName": "EMİNE VARAN YALÇIN"
-  },
-  {
-    "TerritoryCode": "TERR050607",
-    "POSCode": "D5E151034",
-    "CustomerName": "EMRAH FINDIK"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E155355",
-    "CustomerName": "EMRAH HAKALMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D111611",
-    "CustomerName": "EMRE ŞAHİN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002785",
-    "CustomerName": "ENGİN AYDIN"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D036912",
-    "CustomerName": "ERCAN EMANET"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E139965",
-    "CustomerName": "ERCAN KİREMİTÇİ"
-  },
-  {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5D011340",
-    "CustomerName": "ERDAL DUMAN"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5E136901",
-    "CustomerName": "ERDAL KARA"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5E148411",
-    "CustomerName": "ERDAL SAMSUNLU"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D002806",
-    "CustomerName": "ERDOĞAN KÖSE"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5D081840",
-    "CustomerName": "ERGİN KANDEMİR"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5D000476",
-    "CustomerName": "ERGÜL AKKAYA"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5E162223",
-    "CustomerName": "ERKAN KIRBAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D000718",
-    "CustomerName": "EROL ÇERKEZOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D003078",
-    "CustomerName": "EROL KAYIŞ"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D113989",
-    "CustomerName": "EROL SARI"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5D000936",
-    "CustomerName": "EROL ŞAHİN (SEÇ MARKET)"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D001449",
-    "CustomerName": "EROL YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D082291",
-    "CustomerName": "ERSİN KABADAYI-2"
-  },
-  {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "D5E150799",
-    "CustomerName": "ESRA DURAK"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5D000919",
-    "CustomerName": "ESRA HANCIOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "050016530",
-    "CustomerName": "FAHRİ TORUN"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D099185",
-    "CustomerName": "FARUK BULGAN"
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5D113925",
-    "CustomerName": "FATİH BOZTEPE"
-  },
-  {
-    "TerritoryCode": "TERR050607",
-    "POSCode": "D5D001545",
-    "CustomerName": "FATİH KARAKURT-2"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5E158716",
-    "CustomerName": "FATİH KÖSE"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D002636",
-    "CustomerName": "FATMA ARSLAN"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D093590",
-    "CustomerName": "FATMA ÇİÇEK"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D001508",
-    "CustomerName": "FATMA EKŞİ"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D074606",
-    "CustomerName": "FATMA KARADENİZ"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002916",
-    "CustomerName": "FATMA KULOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D002556",
-    "CustomerName": "FATMA SARI"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002629",
-    "CustomerName": "FATMA SÖĞÜNMEZ"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D002547",
-    "CustomerName": "FATMA TÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D5E135909",
-    "CustomerName": "FATSA ÖZDENİZ GIDA TÜK.ÜRN.SAN. VE TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D001619",
-    "CustomerName": "FAYOĞLU GENÇ MARKETÇİLİK GIDA PAZ.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D000840",
-    "CustomerName": "FAZLI TEKİN"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D003063",
-    "CustomerName": "FETHİ ÖZTÜRK GIDA TİC. LTD. ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002673",
-    "CustomerName": "FEVZİ DİKMEN"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D002517",
-    "CustomerName": "FİLİZ EYÜP"
-  },
-  {
-    "TerritoryCode": "TERR050607",
-    "POSCode": "D5E152665",
-    "CustomerName": "FUNDA KILIÇARSLAN"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D057889",
-    "CustomerName": "FURKAN KOŞAK"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D000066",
-    "CustomerName": "GENÇAĞA KARAMAN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5E165756",
-    "CustomerName": "GİMPAŞ GIDA MAD.PAZ.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050103",
-    "POSCode": "050016547",
-    "CustomerName": "GÖKHAN BİLİM"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D110833",
-    "CustomerName": "GÖKHAN SAZAK"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D002154",
-    "CustomerName": "GÖKSEL ÇAVUŞOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5E122991",
-    "CustomerName": "GÜCE PETROL ÜRN.SAN. VE TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D000978",
-    "CustomerName": "GÜLAY BAYDERE"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D004836",
-    "CustomerName": "GÜLÜŞAN GÖKÇÜOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D040610",
-    "CustomerName": "GÜNAY ÇELEBİ"
-  },
-  {
-    "TerritoryCode": "TERR050111",
-    "POSCode": "D5D078777",
-    "CustomerName": "GÜNGÖR YÜCEL"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "050017112",
-    "CustomerName": "GÜRBÜZ ÖZTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E130945",
-    "CustomerName": "GÜRHAN KADİR BAYRAKTAR"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E153441",
-    "CustomerName": "GÜZELHAN İNŞ. LTD. ŞTİ"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002635",
-    "CustomerName": "HAKAN ÇAKIR"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D087983",
-    "CustomerName": "HAKAN YAMAN"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5E169809",
-    "CustomerName": "HALİL İBRAHİM CON"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5E150948",
-    "CustomerName": "HALİME ŞAHİN"
-  },
-  {
-    "TerritoryCode": "TERR050607",
-    "POSCode": "D5D114012",
-    "CustomerName": "HALİS YAKUPOGLU"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E157335",
-    "CustomerName": "HALİT TAHNAL"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E120847",
-    "CustomerName": "HAMİ VAYNİ"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D001174",
-    "CustomerName": "HAMZA ÖZTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5D002729",
-    "CustomerName": "HANIM GÜNEY"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D002511",
-    "CustomerName": "HANİFE KARA"
-  },
-  {
-    "TerritoryCode": "TERR050108",
-    "POSCode": "D3G002069",
-    "CustomerName": "HANİFE ÖZTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D3G002103",
-    "CustomerName": "HANİFE TOMAK"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D000989",
-    "CustomerName": "HASAN CAN ALTUNBAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E131131",
-    "CustomerName": "HASAN ÇATAKLI"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5D110867",
-    "CustomerName": "HASAN ÇİÇEK"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5D002063",
-    "CustomerName": "HASAN KESKİN"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5E167406",
-    "CustomerName": "HASAN KIDIK"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E146449",
-    "CustomerName": "HASAN ÖNAL"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5E119722",
-    "CustomerName": "HASAN ÖZ"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D5E149831",
-    "CustomerName": "HASAN SARITAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E160490",
-    "CustomerName": "HASAN YILDIRIM"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E147971",
-    "CustomerName": "HASBİ AYDIN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D001208",
-    "CustomerName": "HASBİ ÇORUH"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5E140575",
-    "CustomerName": "HASBİ DEDE"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5D002748",
-    "CustomerName": "HASYILMAZLAR PET.ÜRN.İNŞ.NAK.TUR.REK.İŞ.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "050017280",
-    "CustomerName": "HAŞİM SEZER"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D000980",
-    "CustomerName": "HATİCE AYDIN"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D004590",
-    "CustomerName": "HATİCE CEBECİ"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D001851",
-    "CustomerName": "HATİCE CERRAHOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D068584",
-    "CustomerName": "HATİCE DURAN"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D113203",
-    "CustomerName": "HATİCE KAYAR"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D004639",
-    "CustomerName": "HATİCE TANRIVERDİ"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5E148635",
-    "CustomerName": "HAVA ÖZTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D002780",
-    "CustomerName": "HEBILO GIDA INS.NAK.TUR.TOP.TEM.TIC.LTD.STI."
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D5D001638",
-    "CustomerName": "HİCABİ YILDIZ"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "050017323",
-    "CustomerName": "HURİYE ÇAKIR"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D001877",
-    "CustomerName": "HÜLYA DEMİR"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D000417",
-    "CustomerName": "HÜSEYİN DEMİRBAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D002658",
-    "CustomerName": "HÜSEYİN MÜRTAZA"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D002592",
-    "CustomerName": "İBRAHİM KASAP"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5E133422",
-    "CustomerName": "İDRİS ÖZTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D002927",
-    "CustomerName": "İDRİS SARIGÜL"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D014541",
-    "CustomerName": "İHSAN AKTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "D3G002256",
-    "CustomerName": "İLHAMİ ŞİRİN"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5D114825",
-    "CustomerName": "İLHAN PETROL ÜRN.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5E120580",
-    "CustomerName": "İLK GÜNEŞ PETROL ÜR.GIDA İNŞ.NAK.SAN.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5E143312",
-    "CustomerName": "İLKAY AKKAYA"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5D003038",
-    "CustomerName": "İLKNUR YILDIRIM"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D106273",
-    "CustomerName": "İLYAS DURGUN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002969",
-    "CustomerName": "İSA KARACA"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D3G027531",
-    "CustomerName": "İSA KOCAKOÇ"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D000524",
-    "CustomerName": "İSAK AYDIN"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E141782",
-    "CustomerName": "İSMAİL ÇARKÇI"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5E147498",
-    "CustomerName": "İSMAİL ÇARKÇI (2)"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D105284",
-    "CustomerName": "İSMAİL GÜLTEKİN"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D002146",
-    "CustomerName": "İSMAİL TORUNOGLU"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5E119120",
-    "CustomerName": "İSMAİL TÜRKYILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D000537",
-    "CustomerName": "İSMAİL YILDIZ"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5E158027",
-    "CustomerName": "İSMAİL YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5D002727",
-    "CustomerName": "İSMET COŞKAN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D000431",
-    "CustomerName": "İSMET USTA"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D003050",
-    "CustomerName": "İSMET YÖNDEM"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D035678",
-    "CustomerName": "KADİR CAN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5E133019",
-    "CustomerName": "KADİR DENİZ"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5D016221",
-    "CustomerName": "KADİR KARAYİĞİT"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002853",
-    "CustomerName": "KADİR ŞAHİN"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5D069417",
-    "CustomerName": "KADİR ŞENYURT"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D000603",
-    "CustomerName": "KADİR YILMAZTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D002275",
-    "CustomerName": "KAHYAOĞLU GANEZLER TAR.ÜRÜ.GIDA SAN.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D002334",
-    "CustomerName": "KARAHANLAR FINDIK MAM. GID.SAN.TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D3G002076",
-    "CustomerName": "KARAMANLAR PETROL İNŞ.SAN.VE TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D3G002243",
-    "CustomerName": "KAVRAZ MADEN İNŞ.TAAH.GIDA NAK.PETR.ÜRÜN. VE TUR.SAN. DIŞ TİC.LTD.ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D002062",
-    "CustomerName": "KEMAL AKBAŞ"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5D057997",
-    "CustomerName": "KEMAL ŞİMŞEK"
-  },
-  {
-    "TerritoryCode": "TERR050107",
-    "POSCode": "050017289",
-    "CustomerName": "KENAN BARAN-2"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5E130368",
-    "CustomerName": "KENAN KAYA"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D000824",
-    "CustomerName": "KENAN ÖZDEMİR"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D000983",
-    "CustomerName": "KÖKSAL  ÖZKAYA"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5E135589",
-    "CustomerName": "KÖKSAL ÖZTÜRK"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5D002817",
-    "CustomerName": "KUTBETTİN SERİN"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D002490",
-    "CustomerName": "KÜBRA AYAN KIR"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5D015912",
-    "CustomerName": "KÜLEKÇİLER GIDA SAN. TİC. LTD. ŞTİ."
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "050016786",
-    "CustomerName": "LEVENT ÇABUK"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D002824",
-    "CustomerName": "MAHMUT TAHMAZOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5E132987",
-    "CustomerName": "MEHMET ALİ MÜFTÜOĞLU"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5D001402",
-    "CustomerName": "MEHMET ASLAN"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D5D114203",
-    "CustomerName": "MEHMET AYDIN"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D009850",
-    "CustomerName": "MEHMET CAN ÇAKMAK"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5E140952",
-    "CustomerName": "MEHMET ERSOY"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5D002396",
-    "CustomerName": "MEHMET EZMİ"
-  },
-  {
-    "TerritoryCode": "TERR050604",
-    "POSCode": "D5E135443",
-    "CustomerName": "MEHMET GÜLER"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D002912",
-    "CustomerName": "MEHMET GÜVEN"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5D002763",
-    "CustomerName": "MEHMET ŞAHİN"
-  },
-  {
-    "TerritoryCode": "TERR050605",
-    "POSCode": "D5D001576",
-    "CustomerName": "MEHMET ŞİMŞEK"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D3G002208",
-    "CustomerName": "MEHMET UYSAL"
-  },
-  {
-    "TerritoryCode": "TERR050105",
-    "POSCode": "D5D002794",
-    "CustomerName": "MEHMET ZÜLFÜ ASLAN"
-  },
-  {
-    "TerritoryCode": "TERR050109",
-    "POSCode": "D5D001650",
-    "CustomerName": "MELDA KAYA"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D002152",
-    "CustomerName": "MERAL ATAMER"
-  },
-  {
-    "TerritoryCode": "TERR050104",
-    "POSCode": "D3G085737",
-    "CustomerName": "MERTCAN YILDIZ"
-  },
-  {
-    "TerritoryCode": "TERR050102",
-    "POSCode": "D5D002565",
-    "CustomerName": "MERVE AKSU"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D000043",
-    "CustomerName": "MERYEM CİNCİ"
-  },
-  {
-    "TerritoryCode": "TERR050606",
-    "POSCode": "D5D079297",
-    "CustomerName": "MERYEM DURMUŞ"
-  },
-  {
-    "TerritoryCode": "TERR050101",
-    "POSCode": "D5D001571",
-    "CustomerName": "MERYEM TÜYSÜZ"
-  },
-  {
-    "TerritoryCode": "TERR050603",
-    "POSCode": "D5E158727",
-    "CustomerName": "METE KARADENİZ"
-  },
-  {
-    "TerritoryCode": "TERR050110",
-    "POSCode": "D3G041721",
-    "CustomerName": "METE KIYAK"
-  },
-  {
-    "TerritoryCode": "TERR050602",
-    "POSCode": "D5E128250",
-    "CustomerName": "METİN ÇAKRAK"
-  },
-  {
-    "TerritoryCode": "TERR050112",
-    "POSCode": "D5E152640",
-    "CustomerName": "MEVLÜT ÇITAK"
-  },
-  {
-    "TerritoryCode": "TERR050106",
-    "POSCode": "D5D002855",
-    "CustomerName": "MEVLÜT YILMAZ"
-  },
-  {
-    "TerritoryCode": "TERR050601",
-    "POSCode": "D5D001622",
-    "CustomerName": "MEYSE HİSARKAYA"
+    "CustomerCode": "D5E158072",
+    "CustomerName": "ZİYA AKTEKİN",
+    "CustomerPhoneNumber": "05396102800",
+    "qTerritoryCode": "TERR050601"
   }
 ]
