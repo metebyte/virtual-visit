@@ -30,16 +30,7 @@ export class PMAKTIF {
       .sendKeys(environment.PMAKTIF_PASSWORD, Key.ENTER)
 
     await this.browser.wait(until.urlContains('feed'), 10000).then(async () => {
-      await this.browser
-        .wait(until.elementLocated(PMAKTIFLocators.virtualVisitButton), 10000)
-        .then(
-          async (element) => {
-            await element.click()
-          },
-          async () => {
-            return
-          }
-        )
+      await this.browser.get('https://pmaktif.com/secure/virtual-visit')
 
       await this.browser
         .wait(until.elementLocated(PMAKTIFLocators.virtualVisitIFrame), 10000)
