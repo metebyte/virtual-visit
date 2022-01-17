@@ -6,8 +6,8 @@ export const environment = {
   PMAKTIF_BASE_URL: 'https://pmaktif.com/auth/login/phone-number',
   PMAKTIF_PHONE_NUMBER: '5459791726',
   PMAKTIF_PASSWORD: '5459791726.',
-  PMTEP_EMAIL_ADRESS: 'safak.celenk@atesgrup.com.tr',
-  PMTEP_PASSWORD: '5399120273.',
+  PMTEP_EMAIL_ADRESS: 'hasan.gumus@atesgrup.com.tr',
+  PMTEP_PASSWORD: '12345678',
   PMTEP_REMEMBER_ME: true,
   PMTEP_TRANSPORTER_CONTACT_PHONE_NUMBER: '5459791726',
 }

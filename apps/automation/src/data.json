@@ -1,1392 +1,967 @@
-{
-  "Sayfa1": [
-      {
-          "CustomerCode": "D5E001178",
-          "CustomerName": "UĞUR ULUDÜZ"
-      },
-      {
-          "CustomerCode": "50018835",
-          "CustomerName": "ENVER SOYLU"
-      },
-      {
-          "CustomerCode": "D5E087309",
-          "CustomerName": "MERYEM TÜYSÜZ"
-      },
-      {
-          "CustomerCode": "50018858",
-          "CustomerName": "ADİL ŞİMŞEK"
-      },
-      {
-          "CustomerCode": "D5E114478",
-          "CustomerName": "CUMHUR AKTAŞ"
-      },
-      {
-          "CustomerCode": "D5E163557",
-          "CustomerName": "FEHMİ ÜNAL"
-      },
-      {
-          "CustomerCode": "50018869",
-          "CustomerName": "HIDIROĞLU GIDA SAN.İNŞ.TAR.ORM.HAYV.İÇ VE DIŞ TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E000055",
-          "CustomerName": "GÖKSEL TANRIVER"
-      },
-      {
-          "CustomerCode": "D5E036892",
-          "CustomerName": "AYŞE ALTUN"
-      },
-      {
-          "CustomerCode": "D5E000122",
-          "CustomerName": "ORHAN AKTAŞ"
-      },
-      {
-          "CustomerCode": "D5E114474",
-          "CustomerName": "ÖZLEM TÜRKELİ"
-      },
-      {
-          "CustomerCode": "D5E001189",
-          "CustomerName": "MUHİTTİN US"
-      },
-      {
-          "CustomerCode": "D5E112878",
-          "CustomerName": "ÖZGÜL ÖZDEMİR"
-      },
-      {
-          "CustomerCode": "D5E003767",
-          "CustomerName": "SALİH ARSLAN(2)"
-      },
-      {
-          "CustomerCode": "D5E003066",
-          "CustomerName": "POLİS ŞEHİTLERİ DERNEĞİ (ŞENEL ŞAHİN)"
-      },
-      {
-          "CustomerCode": "D5E013380",
-          "CustomerName": "SERPİL ŞANLI"
-      },
-      {
-          "CustomerCode": "D5E001163",
-          "CustomerName": "SEFA YÜCE"
-      },
-      {
-          "CustomerCode": "D5E003553",
-          "CustomerName": "FATİH BOZTEPE"
-      },
-      {
-          "CustomerCode": "D5E003566",
-          "CustomerName": "ALİ OSMAN DURAN"
-      },
-      {
-          "CustomerCode": "D5E175055",
-          "CustomerName": "KALİP ŞEREMET"
-      },
-      {
-          "CustomerCode": "D5E122400",
-          "CustomerName": "KERİM GEDİK (SEÇ MARKET)"
-      },
-      {
-          "CustomerCode": "D5E164063",
-          "CustomerName": "ELİF YİĞİT (2)"
-      },
-      {
-          "CustomerCode": "D5E000135",
-          "CustomerName": "SERHAT YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E000188",
-          "CustomerName": "UFUK ODABAŞI"
-      },
-      {
-          "CustomerCode": "D5E173173",
-          "CustomerName": "ÇETİN BEKTAŞ"
-      },
-      {
-          "CustomerCode": "D5E130388",
-          "CustomerName": "YAKUP VARLIK"
-      },
-      {
-          "CustomerCode": "D5E000369",
-          "CustomerName": "MURAT BEKGÖZ"
-      },
-      {
-          "CustomerCode": "D5E000502",
-          "CustomerName": "ERDAL YAŞAR"
-      },
-      {
-          "CustomerCode": "D5E023141",
-          "CustomerName": "SONGÜL KULAKÇI"
-      },
-      {
-          "CustomerCode": "D5E063732",
-          "CustomerName": "İSMAİL ÇARKÇI (2)"
-      },
-      {
-          "CustomerCode": "D5E021844",
-          "CustomerName": "TANER YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E004042",
-          "CustomerName": "METİN KARA"
-      },
-      {
-          "CustomerCode": "D5E017503",
-          "CustomerName": "ZEKİYE GÜNDOĞDU"
-      },
-      {
-          "CustomerCode": "50019018",
-          "CustomerName": "ARNAK TUR.PAZ.veGIDA SAN.TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E154621",
-          "CustomerName": "ZENNUBE DEMİR"
-      },
-      {
-          "CustomerCode": "D5E004000",
-          "CustomerName": "TUĞRUL ŞAH ÇAKIR"
-      },
-      {
-          "CustomerCode": "50019100",
-          "CustomerName": "HASAN YILDIRIM"
-      },
-      {
-          "CustomerCode": "D5E003564",
-          "CustomerName": "ENGİNTUR TAŞ.TURZ. GIDA TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E014132",
-          "CustomerName": "MUSTAFA AKKAYA"
-      },
-      {
-          "CustomerCode": "D5E130198",
-          "CustomerName": "RECEP KAĞAN"
-      },
-      {
-          "CustomerCode": "D5E164270",
-          "CustomerName": "ATILGAN TOSUN"
-      },
-      {
-          "CustomerCode": "D5E130616",
-          "CustomerName": "KUTBETTİN SERİN"
-      },
-      {
-          "CustomerCode": "D5E000401",
-          "CustomerName": "İSMAİL ÇARKÇI"
-      },
-      {
-          "CustomerCode": "D5E000249",
-          "CustomerName": "MURAT ŞENSOY"
-      },
-      {
-          "CustomerCode": "D5E003167",
-          "CustomerName": "MERVE AKSU"
-      },
-      {
-          "CustomerCode": "D5E000558",
-          "CustomerName": "MUSTAFA İNAN"
-      },
-      {
-          "CustomerCode": "D5E070862",
-          "CustomerName": "HAYRİ AKDENİZ"
-      },
-      {
-          "CustomerCode": "D5E001756",
-          "CustomerName": "KADİR ŞENYURT"
-      },
-      {
-          "CustomerCode": "D5E172224",
-          "CustomerName": "AZİZ BİLGİ"
-      },
-      {
-          "CustomerCode": "D5E019679",
-          "CustomerName": "İLKNUR YILDIRIM"
-      },
-      {
-          "CustomerCode": "D5E051710",
-          "CustomerName": "GÜRBÜZ ÖZTÜRK"
-      },
-      {
-          "CustomerCode": "D5E003338",
-          "CustomerName": "DURSUN TEMEL"
-      },
-      {
-          "CustomerCode": "D5E000559",
-          "CustomerName": "ŞENOL YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E114006",
-          "CustomerName": "İSA ŞAHİN (2)"
-      },
-      {
-          "CustomerCode": "D5E057277",
-          "CustomerName": "GÜRHAN KADİR BAYRAKTAR"
-      },
-      {
-          "CustomerCode": "50019009",
-          "CustomerName": "LEVENT ÇABUK"
-      },
-      {
-          "CustomerCode": "D5E169858",
-          "CustomerName": "SONER AKPINAR"
-      },
-      {
-          "CustomerCode": "D5E149101",
-          "CustomerName": "OKAN GÜNDÜZ"
-      },
-      {
-          "CustomerCode": "50019026",
-          "CustomerName": "MUSTAFA MOLLAMAHMUTOĞLU (REN-BA 2)"
-      },
-      {
-          "CustomerCode": "D5E146220",
-          "CustomerName": "SİNAN DEMİRER"
-      },
-      {
-          "CustomerCode": "D5E130738",
-          "CustomerName": "HACI AKPINAR"
-      },
-      {
-          "CustomerCode": "D5E062989",
-          "CustomerName": "GÖKHAN BİLİM"
-      },
-      {
-          "CustomerCode": "D5E152080",
-          "CustomerName": "MEVLÜT ÇAYKIRAN"
-      },
-      {
-          "CustomerCode": "D5E061731",
-          "CustomerName": "EMİN OL AKRYAKIT NAK. GIDA TİC. VE SAN.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E166044",
-          "CustomerName": "ESRA DURAK"
-      },
-      {
-          "CustomerCode": "D5E119079",
-          "CustomerName": "ŞÜKRÜ DEREKÖY"
-      },
-      {
-          "CustomerCode": "D5E090970",
-          "CustomerName": "HAVVA TECİM"
-      },
-      {
-          "CustomerCode": "D5E039837",
-          "CustomerName": "ÜMRAN ÇAKIR"
-      },
-      {
-          "CustomerCode": "D5E105628",
-          "CustomerName": "ŞÜKRAN AYDIN ALTUNTAŞ"
-      },
-      {
-          "CustomerCode": "D5E001345",
-          "CustomerName": "POYRAZ PETROL TUR.GIDA İNŞ.TAAH.PAZ.NAK.TİC. VE SAN.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E000525",
-          "CustomerName": "ONUR TÜRKCAN"
-      },
-      {
-          "CustomerCode": "D5E111015",
-          "CustomerName": "ŞENEL KAHRAMAN"
-      },
-      {
-          "CustomerCode": "D5E001999",
-          "CustomerName": "ERDAL DUMAN"
-      },
-      {
-          "CustomerCode": "D5E016724",
-          "CustomerName": "SEZGİN YAZICI"
-      },
-      {
-          "CustomerCode": "D5E004001",
-          "CustomerName": "KEMALETTİN ŞAHİN"
-      },
-      {
-          "CustomerCode": "D5E144065",
-          "CustomerName": "MURAT KIRAN"
-      },
-      {
-          "CustomerCode": "D5E169153",
-          "CustomerName": "ŞÜKRAN BAYRAM"
-      },
-      {
-          "CustomerCode": "D5E002265",
-          "CustomerName": "AHMET SOĞUKSU"
-      },
-      {
-          "CustomerCode": "D5E002327",
-          "CustomerName": "ÖZLEM GIDA TAR.ÜRN.NAK.SAN. VE TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E000846",
-          "CustomerName": "DERYA ÇAMUR"
-      },
-      {
-          "CustomerCode": "D5E002350",
-          "CustomerName": "EMİNE GÜLEÇ"
-      },
-      {
-          "CustomerCode": "D5J003115",
-          "CustomerName": "TEKİN MEMİŞ"
-      },
-      {
-          "CustomerCode": "D5E002385",
-          "CustomerName": "RAMAZAN ÖZÇELİK"
-      },
-      {
-          "CustomerCode": "D5E003834",
-          "CustomerName": "YUSUF ARSLAN"
-      },
-      {
-          "CustomerCode": "D5E120099",
-          "CustomerName": "SERKAN ŞEYHUN"
-      },
-      {
-          "CustomerCode": "D5E003977",
-          "CustomerName": "SELİM HISIM"
-      },
-      {
-          "CustomerCode": "D5E001748",
-          "CustomerName": "ÇETİN BAYRAK"
-      },
-      {
-          "CustomerCode": "D5E000670",
-          "CustomerName": "SEZAİ ERDEM"
-      },
-      {
-          "CustomerCode": "D5E092739",
-          "CustomerName": "SİNAN BOZKURT"
-      },
-      {
-          "CustomerCode": "D5E112531",
-          "CustomerName": "SİNAN DEREKÖY"
-      },
-      {
-          "CustomerCode": "D5E091277",
-          "CustomerName": "SAVAŞ ÖKSÜZ"
-      },
-      {
-          "CustomerCode": "D5E002053",
-          "CustomerName": "SERDAR GÜNAYDIN"
-      },
-      {
-          "CustomerCode": "D5E004023",
-          "CustomerName": "RAMAZAN FAKİROĞLU"
-      },
-      {
-          "CustomerCode": "D5E002370",
-          "CustomerName": "NURULLAH EKİNCİ"
-      },
-      {
-          "CustomerCode": "D5E120100",
-          "CustomerName": "DERYA DEREKÖY"
-      },
-      {
-          "CustomerCode": "D5E144066",
-          "CustomerName": "ŞERİFE İLHAN"
-      },
-      {
-          "CustomerCode": "D5J003100",
-          "CustomerName": "HİCABİ YILDIZ"
-      },
-      {
-          "CustomerCode": "D5E002338",
-          "CustomerName": "YUNUS ARPACI"
-      },
-      {
-          "CustomerCode": "D5E003604",
-          "CustomerName": "EROL ŞAHİN (SEÇ MARKET)"
-      },
-      {
-          "CustomerCode": "D5E003374",
-          "CustomerName": "ÜMİT AK"
-      },
-      {
-          "CustomerCode": "D5E106356",
-          "CustomerName": "VONA BALKAYMAK"
-      },
-      {
-          "CustomerCode": "50019408",
-          "CustomerName": "HAL-ES PAZ.TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E135464",
-          "CustomerName": "AHMET EŞREF İNCE"
-      },
-      {
-          "CustomerCode": "D5E167001",
-          "CustomerName": "SEVDA MAĞDALA"
-      },
-      {
-          "CustomerCode": "D5J003298",
-          "CustomerName": "NAZIM EM"
-      },
-      {
-          "CustomerCode": "D5E073083",
-          "CustomerName": "ABDURRAHMAN SALMAN"
-      },
-      {
-          "CustomerCode": "D5E018075",
-          "CustomerName": "TÜLAY UYGUN"
-      },
-      {
-          "CustomerCode": "D5J003108",
-          "CustomerName": "MEHMET CİHAN"
-      },
-      {
-          "CustomerCode": "D5E117967",
-          "CustomerName": "SAMET MEMİŞ"
-      },
-      {
-          "CustomerCode": "D5E003962",
-          "CustomerName": "HALİT TAHNAL"
-      },
-      {
-          "CustomerCode": "D5E002216",
-          "CustomerName": "VİZYON AVM GIDA TEM. İÇ VE DIŞ TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E002086",
-          "CustomerName": "MEHMET EZMİ"
-      },
-      {
-          "CustomerCode": "D5E118898",
-          "CustomerName": "SEDA BAYLAN DİKBAŞ"
-      },
-      {
-          "CustomerCode": "D5E002230",
-          "CustomerName": "GÜLDEREN ARAÇ"
-      },
-      {
-          "CustomerCode": "D5E002032",
-          "CustomerName": "NURİYE EYİLİKÇİ"
-      },
-      {
-          "CustomerCode": "D5E003723",
-          "CustomerName": "İHSAN ÖNEŞ (SEÇ MARKET)"
-      },
-      {
-          "CustomerCode": "D5E174579",
-          "CustomerName": "KEMAL OĞUZ ARAÇ"
-      },
-      {
-          "CustomerCode": "D5E150782",
-          "CustomerName": "ARİF AYVAZ"
-      },
-      {
-          "CustomerCode": "D5E076180",
-          "CustomerName": "YUMAKLAR PET.İNŞ.NAK.İÇ VE DIŞ TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E124159",
-          "CustomerName": "ABDULLAH CAYAK"
-      },
-      {
-          "CustomerCode": "D5E003948",
-          "CustomerName": "ERDEM TORA"
-      },
-      {
-          "CustomerCode": "D5E052476",
-          "CustomerName": "MUSTAFA İŞLEME"
-      },
-      {
-          "CustomerCode": "D5E002243",
-          "CustomerName": "MURAT KAVCI"
-      },
-      {
-          "CustomerCode": "D5E002227",
-          "CustomerName": "EYÜP DUZAK"
-      },
-      {
-          "CustomerCode": "D5E003252",
-          "CustomerName": "YÜCEL KOCA"
-      },
-      {
-          "CustomerCode": "D5E003234",
-          "CustomerName": "ERCAN KİREMİTÇİ"
-      },
-      {
-          "CustomerCode": "D5E123654",
-          "CustomerName": "ADEM AKKAYA"
-      },
-      {
-          "CustomerCode": "D5E002017",
-          "CustomerName": "NAFIZ TIKIÇOĞLU"
-      },
-      {
-          "CustomerCode": "D5E002013",
-          "CustomerName": "RAHİME PİROĞLU"
-      },
-      {
-          "CustomerCode": "D5E073147",
-          "CustomerName": "ESRA HANCIOĞLU"
-      },
-      {
-          "CustomerCode": "D5J003274",
-          "CustomerName": "MEHMET İLMEK"
-      },
-      {
-          "CustomerCode": "D5J003195",
-          "CustomerName": "ADEM SÜL"
-      },
-      {
-          "CustomerCode": "D5E003355",
-          "CustomerName": "OKTAY SAYGI"
-      },
-      {
-          "CustomerCode": "D5E018964",
-          "CustomerName": "BÖLGE KARDEŞLER PET.ÜRN.LPG GIDA TAR.HAY.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5J003289",
-          "CustomerName": "DURMUŞ AKINCI"
-      },
-      {
-          "CustomerCode": "D5E002146",
-          "CustomerName": "ADİL CILIZ"
-      },
-      {
-          "CustomerCode": "D5E147392",
-          "CustomerName": "VERİM PETROL ÜRN.TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E160623",
-          "CustomerName": "MAHMUT ALİ TIYMAÇ"
-      },
-      {
-          "CustomerCode": "D5E002239",
-          "CustomerName": "YAYSAN PETROL ORMAN ÜRN.TUR.İNŞ.GIDA TEKS.PAZ.SAN. VE TİC.LTD.ŞTİ (1)"
-      },
-      {
-          "CustomerCode": "D5E001575",
-          "CustomerName": "ALİ YANIK"
-      },
-      {
-          "CustomerCode": "D5E001578",
-          "CustomerName": "KEMAL ŞİMŞEK"
-      },
-      {
-          "CustomerCode": "D5J002970",
-          "CustomerName": "CİHAT YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E070677",
-          "CustomerName": "ŞAKİR ÇELİK"
-      },
-      {
-          "CustomerCode": "D5E002719",
-          "CustomerName": "ADEM KÜÇÜKOĞLU"
-      },
-      {
-          "CustomerCode": "D5E002632",
-          "CustomerName": "HASAN ÇİÇEK"
-      },
-      {
-          "CustomerCode": "D5E003371",
-          "CustomerName": "KADİR KARAYİĞİT"
-      },
-      {
-          "CustomerCode": "D5E136976",
-          "CustomerName": "İSMET COŞKAN"
-      },
-      {
-          "CustomerCode": "D5E019359",
-          "CustomerName": "ORHAN BALTACI"
-      },
-      {
-          "CustomerCode": "D5E003502",
-          "CustomerName": "MEVLÜT YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E176964",
-          "CustomerName": "CEMAL GÜLEÇ"
-      },
-      {
-          "CustomerCode": "D5E002757",
-          "CustomerName": "KEMAL SAKA"
-      },
-      {
-          "CustomerCode": "D5E040022",
-          "CustomerName": "İLHAN PETROL ÜRN.TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E002784",
-          "CustomerName": "YÜKSEL GÜMÜŞ"
-      },
-      {
-          "CustomerCode": "D5J002990",
-          "CustomerName": "ÖZTAŞ PETROL TAR.ÜRN.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E129400",
-          "CustomerName": "DERYA SAVSAR"
-      },
-      {
-          "CustomerCode": "D5E002758",
-          "CustomerName": "ZEKERiYA SARIKOCA"
-      },
-      {
-          "CustomerCode": "D5E150473",
-          "CustomerName": "NİHAT KALYONCU"
-      },
-      {
-          "CustomerCode": "D5E003537",
-          "CustomerName": "İLK GÜNEŞ PETROL ÜR.GIDA İNŞ.NAK.SAN.TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E002801",
-          "CustomerName": "DİLAVER YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E117731",
-          "CustomerName": "YUNUS EMRE EFİLOĞLU"
-      },
-      {
-          "CustomerCode": "D5J002995",
-          "CustomerName": "MUSTAFA AKKAYA"
-      },
-      {
-          "CustomerCode": "D5J002971",
-          "CustomerName": "İSA KOCAKOÇ"
-      },
-      {
-          "CustomerCode": "D5E112936",
-          "CustomerName": "HASAN ÇATAKLI"
-      },
-      {
-          "CustomerCode": "D5E123105",
-          "CustomerName": "SEYFULLAH GÜDEK"
-      },
-      {
-          "CustomerCode": "D5E009749",
-          "CustomerName": "MURAT GÜL"
-      },
-      {
-          "CustomerCode": "D5J003244",
-          "CustomerName": "HASYILMAZLAR PET.ÜRN.İNŞ.NAK.TUR.REK.İŞ.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E002783",
-          "CustomerName": "YÜKSEL CÜREBAL"
-      },
-      {
-          "CustomerCode": "D5E002756",
-          "CustomerName": "HASBİ AYDIN"
-      },
-      {
-          "CustomerCode": "D5E002764",
-          "CustomerName": "İSMAİL ERKUŞ"
-      },
-      {
-          "CustomerCode": "50019846",
-          "CustomerName": "HASAN ÖNAL"
-      },
-      {
-          "CustomerCode": "50020109",
-          "CustomerName": "MURAT KARAÇUHA"
-      },
-      {
-          "CustomerCode": "D5E001788",
-          "CustomerName": "FATİH TAZE"
-      },
-      {
-          "CustomerCode": "D5E001783",
-          "CustomerName": "SONER KARACA"
-      },
-      {
-          "CustomerCode": "D5E002091",
-          "CustomerName": "HASAN SARITAŞ"
-      },
-      {
-          "CustomerCode": "D5E003853",
-          "CustomerName": "MURAT ŞEN"
-      },
-      {
-          "CustomerCode": "D5E130993",
-          "CustomerName": "ALİ EKİNCİ"
-      },
-      {
-          "CustomerCode": "D5E001889",
-          "CustomerName": "BİLAL ÖDUL"
-      },
-      {
-          "CustomerCode": "D5E134836",
-          "CustomerName": "HANIM GÜNEY"
-      },
-      {
-          "CustomerCode": "D5E019658",
-          "CustomerName": "YILDIRAY ÇORUM"
-      },
-      {
-          "CustomerCode": "D5E130635",
-          "CustomerName": "KENAN BARAN-2"
-      },
-      {
-          "CustomerCode": "D5E168847",
-          "CustomerName": "ADEM ÇALIK"
-      },
-      {
-          "CustomerCode": "D5E135735",
-          "CustomerName": "EMİNE VARAN YALÇIN"
-      },
-      {
-          "CustomerCode": "D5E133680",
-          "CustomerName": "GÖKHAN KILIÇÇI"
-      },
-      {
-          "CustomerCode": "D5E146851",
-          "CustomerName": "GÜLSEN FİDAN"
-      },
-      {
-          "CustomerCode": "D5E169948",
-          "CustomerName": "AYŞENUR KASER"
-      },
-      {
-          "CustomerCode": "D5E003428",
-          "CustomerName": "İLHAMİ ŞİRİN"
-      },
-      {
-          "CustomerCode": "D5E001798",
-          "CustomerName": "CEMAL TAŞ"
-      },
-      {
-          "CustomerCode": "D5E166490",
-          "CustomerName": "EMRE AKTÜRK"
-      },
-      {
-          "CustomerCode": "D5E016261",
-          "CustomerName": "TUĞBA YAKAN"
-      },
-      {
-          "CustomerCode": "D5E130634",
-          "CustomerName": "KENAN BARAN-1"
-      },
-      {
-          "CustomerCode": "D5E132037",
-          "CustomerName": "BAHTİYAR ÇAKMAK"
-      },
-      {
-          "CustomerCode": "D5E117038",
-          "CustomerName": "SEYİT ALİ YALÇIN"
-      },
-      {
-          "CustomerCode": "D5E127346",
-          "CustomerName": "ŞÜKRÜ ÇALGICI"
-      },
-      {
-          "CustomerCode": "D5E151274",
-          "CustomerName": "HAKAN GÜNEY"
-      },
-      {
-          "CustomerCode": "50019818",
-          "CustomerName": "HAMİYE OCAK"
-      },
-      {
-          "CustomerCode": "D5E002258",
-          "CustomerName": "SEZGİN AYDINLIK"
-      },
-      {
-          "CustomerCode": "D5E003861",
-          "CustomerName": "ASLI AKCAN"
-      },
-      {
-          "CustomerCode": "D5E003842",
-          "CustomerName": "MUSTAFA YILDIZ"
-      },
-      {
-          "CustomerCode": "D5J003138",
-          "CustomerName": "EMRAH HAKALMAZ"
-      },
-      {
-          "CustomerCode": "D5E067430",
-          "CustomerName": "ŞEREF TOKAÇ"
-      },
-      {
-          "CustomerCode": "D5E001936",
-          "CustomerName": "ŞENER DURAN"
-      },
-      {
-          "CustomerCode": "D5E131741",
-          "CustomerName": "CEM KARADUMAN"
-      },
-      {
-          "CustomerCode": "D5E009404",
-          "CustomerName": "HANİFE ÖZTÜRK"
-      },
-      {
-          "CustomerCode": "D5E004003",
-          "CustomerName": "NEVİN SERDAROĞLU"
-      },
-      {
-          "CustomerCode": "D5E003316",
-          "CustomerName": "ALİ OSMAN COŞKUN"
-      },
-      {
-          "CustomerCode": "D5E003378",
-          "CustomerName": "FATSA ÖZDENİZ GIDA TÜK.ÜRN.SAN. VE TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E134431",
-          "CustomerName": "KÜBRA GÜRLER"
-      },
-      {
-          "CustomerCode": "D5J002959",
-          "CustomerName": "FATİH OLGUN"
-      },
-      {
-          "CustomerCode": "D5J003081",
-          "CustomerName": "ABDULLAH DEMİR"
-      },
-      {
-          "CustomerCode": "D5E003518",
-          "CustomerName": "CEMİL ALTUN"
-      },
-      {
-          "CustomerCode": "D5J003061",
-          "CustomerName": "MUSTAFA ERGÜN"
-      },
-      {
-          "CustomerCode": "D5E029596",
-          "CustomerName": "ADEM AYDEMİR"
-      },
-      {
-          "CustomerCode": "D5E001964",
-          "CustomerName": "MUAMMER COŞKUN"
-      },
-      {
-          "CustomerCode": "D5E040024",
-          "CustomerName": "YASEMİN SÜZEN"
-      },
-      {
-          "CustomerCode": "D5E128682",
-          "CustomerName": "FATİH DEMİRCİ"
-      },
-      {
-          "CustomerCode": "D5E175269",
-          "CustomerName": "ARSLAN DERVİŞOĞLU"
-      },
-      {
-          "CustomerCode": "D5E003227",
-          "CustomerName": "SEBAHATTİN LATİF"
-      },
-      {
-          "CustomerCode": "D5E146796",
-          "CustomerName": "ULUHAN AYDIK"
-      },
-      {
-          "CustomerCode": "D5E166064",
-          "CustomerName": "ÖZGE AYNACI"
-      },
-      {
-          "CustomerCode": "D5E003231",
-          "CustomerName": "CELAL CEM YANIK"
-      },
-      {
-          "CustomerCode": "D5E175589",
-          "CustomerName": "LEVENT ÖZYURT"
-      },
-      {
-          "CustomerCode": "D5E056739",
-          "CustomerName": "MUSTAFA ERTAŞ"
-      },
-      {
-          "CustomerCode": "D5E004761",
-          "CustomerName": "SENAYİ AYDOĞDU"
-      },
-      {
-          "CustomerCode": "D5E002569",
-          "CustomerName": "AYHAN EKMEKCİ"
-      },
-      {
-          "CustomerCode": "D5E036005",
-          "CustomerName": "RAMAZAN KOLCULAR"
-      },
-      {
-          "CustomerCode": "D5E094792",
-          "CustomerName": "OĞUZHAN FELEK"
-      },
-      {
-          "CustomerCode": "D5E152674",
-          "CustomerName": "MELDA KAYA"
-      },
-      {
-          "CustomerCode": "D5E134874",
-          "CustomerName": "MUHARREM ARSLAN"
-      },
-      {
-          "CustomerCode": "D5E002561",
-          "CustomerName": "ZEKERİYA KURU"
-      },
-      {
-          "CustomerCode": "D5E170335",
-          "CustomerName": "FATMA SARI"
-      },
-      {
-          "CustomerCode": "D5E003901",
-          "CustomerName": "YAŞAR İMECE"
-      },
-      {
-          "CustomerCode": "D5E003930",
-          "CustomerName": "ABDULLAH YİĞİT"
-      },
-      {
-          "CustomerCode": "D5E097280",
-          "CustomerName": "AHMET BİNEN"
-      },
-      {
-          "CustomerCode": "D5E002459",
-          "CustomerName": "GÖKSEL ÇAVUŞOĞLU"
-      },
-      {
-          "CustomerCode": "D5E177789",
-          "CustomerName": "FURKAN KOŞAK"
-      },
-      {
-          "CustomerCode": "D5E002702",
-          "CustomerName": "DURSUN DALKIÇ"
-      },
-      {
-          "CustomerCode": "D5E137468",
-          "CustomerName": "ABDULLAH KİSBET"
-      },
-      {
-          "CustomerCode": "D5E157865",
-          "CustomerName": "ÜNÇAĞDAŞ GIDA İNŞ.SAN.VE TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E086409",
-          "CustomerName": "ASIM HALICI"
-      },
-      {
-          "CustomerCode": "D5E027674",
-          "CustomerName": "SEYHAN OKUYUCU"
-      },
-      {
-          "CustomerCode": "D5E143140",
-          "CustomerName": "UĞUR ELMAS"
-      },
-      {
-          "CustomerCode": "D5E002573",
-          "CustomerName": "YÜKSEL OHTAMIŞ"
-      },
-      {
-          "CustomerCode": "D5E036380",
-          "CustomerName": "BURHAN ALÇELİK"
-      },
-      {
-          "CustomerCode": "D5E002570",
-          "CustomerName": "MUSTAFA ALTUNOK"
-      },
-      {
-          "CustomerCode": "D5E002412",
-          "CustomerName": "SANCAR AKPINAR"
-      },
-      {
-          "CustomerCode": "D5E025524",
-          "CustomerName": "İLYAS DURGUN"
-      },
-      {
-          "CustomerCode": "D5E002560",
-          "CustomerName": "DERYA KIZAKLI"
-      },
-      {
-          "CustomerCode": "D5E023987",
-          "CustomerName": "TURGAY İBRAHİM ÖZOĞUL"
-      },
-      {
-          "CustomerCode": "D5E065829",
-          "CustomerName": "MEHMET GÜVEN"
-      },
-      {
-          "CustomerCode": "D5E002607",
-          "CustomerName": "AYDIN ELLİBEŞ"
-      },
-      {
-          "CustomerCode": "D5E162443",
-          "CustomerName": "ZEYNEP DEMİR"
-      },
-      {
-          "CustomerCode": "D5E151281",
-          "CustomerName": "FATMA ÇİÇEK"
-      },
-      {
-          "CustomerCode": "D5E002536",
-          "CustomerName": "METE KIYAK"
-      },
-      {
-          "CustomerCode": "D5E004043",
-          "CustomerName": "ABDULLAH BULAT"
-      },
-      {
-          "CustomerCode": "D5E001580",
-          "CustomerName": "HAYDAR OCAK"
-      },
-      {
-          "CustomerCode": "D5J003171",
-          "CustomerName": "GÜLCAN KAYMAK"
-      },
-      {
-          "CustomerCode": "D5E153500",
-          "CustomerName": "MEHMET UYSAL"
-      },
-      {
-          "CustomerCode": "D5E138104",
-          "CustomerName": "ALİM KÜÇÜK"
-      },
-      {
-          "CustomerCode": "D5E003855",
-          "CustomerName": "İSMAİL YILDIZ"
-      },
-      {
-          "CustomerCode": "D5E002810",
-          "CustomerName": "AYHAN AKBAŞ"
-      },
-      {
-          "CustomerCode": "D5E093593",
-          "CustomerName": "NURETTİN OKUYAN"
-      },
-      {
-          "CustomerCode": "D5E015261",
-          "CustomerName": "ŞÜKRÜ ARSLAN"
-      },
-      {
-          "CustomerCode": "D5E133699",
-          "CustomerName": "HALİL İBRAHİM CON"
-      },
-      {
-          "CustomerCode": "D5E002522",
-          "CustomerName": "MURAT DURGUN"
-      },
-      {
-          "CustomerCode": "D5E003505",
-          "CustomerName": "NURİ KORUCU"
-      },
-      {
-          "CustomerCode": "D5E091559",
-          "CustomerName": "İSMAİL ORUÇOĞLU"
-      },
-      {
-          "CustomerCode": "D5E012624",
-          "CustomerName": "HATİCE DURAN"
-      },
-      {
-          "CustomerCode": "D5E002467",
-          "CustomerName": "AYHAN PEKER"
-      },
-      {
-          "CustomerCode": "D5E034413",
-          "CustomerName": "MUSTAFA ALICI"
-      },
-      {
-          "CustomerCode": "D5E108381",
-          "CustomerName": "HATİCE CERRAHOĞLU"
-      },
-      {
-          "CustomerCode": "D5E003554",
-          "CustomerName": "AHMET ER"
-      },
-      {
-          "CustomerCode": "D5E147496",
-          "CustomerName": "SEFA GÜNAY"
-      },
-      {
-          "CustomerCode": "D5E002613",
-          "CustomerName": "NURSEL ÜSTÜNDAĞ"
-      },
-      {
-          "CustomerCode": "D5E003770",
-          "CustomerName": "ŞEVKİ MOLLAKADIOĞLU"
-      },
-      {
-          "CustomerCode": "D5E135288",
-          "CustomerName": "ESRA AYDIN"
-      },
-      {
-          "CustomerCode": "D5E003144",
-          "CustomerName": "AYHAN AVCI"
-      },
-      {
-          "CustomerCode": "D5E144158",
-          "CustomerName": "SERKAN AŞIKOĞLU"
-      },
-      {
-          "CustomerCode": "D5E131620",
-          "CustomerName": "AHMET KILIÇ"
-      },
-      {
-          "CustomerCode": "D5E002519",
-          "CustomerName": "İSMAİL TORUNOGLU"
-      },
-      {
-          "CustomerCode": "D5E154910",
-          "CustomerName": "ESİN YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E004684",
-          "CustomerName": "MEHMET AYDIN"
-      },
-      {
-          "CustomerCode": "D5E000635",
-          "CustomerName": "EROL BATTAL"
-      },
-      {
-          "CustomerCode": "D5E000610",
-          "CustomerName": "YAŞAR DEMİRKALE"
-      },
-      {
-          "CustomerCode": "D5E002954",
-          "CustomerName": "KADEM YİĞİT"
-      },
-      {
-          "CustomerCode": "D5E004006",
-          "CustomerName": "ONUR YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E000844",
-          "CustomerName": "AYDIN ÖZGÜL"
-      },
-      {
-          "CustomerCode": "50019446",
-          "CustomerName": "OKAN CUMHUR ÇUHADAR"
-      },
-      {
-          "CustomerCode": "D5E000658",
-          "CustomerName": "AYDIN GÜNGÖR"
-      },
-      {
-          "CustomerCode": "D5E000895",
-          "CustomerName": "GÜNGÖR YÜCEL"
-      },
-      {
-          "CustomerCode": "D5E012626",
-          "CustomerName": "EMİNE DİLMEN"
-      },
-      {
-          "CustomerCode": "D5E001107",
-          "CustomerName": "İRFAN ESEN"
-      },
-      {
-          "CustomerCode": "D5E157651",
-          "CustomerName": "ZAFER PİLİÇ TAVUKÇULUK GIDA TAR.SAN.VE TİC.LTD.ŞTİ"
-      },
-      {
-          "CustomerCode": "D5E000664",
-          "CustomerName": "HALİS YILMAZ"
-      },
-      {
-          "CustomerCode": "D5E003061",
-          "CustomerName": "LEVENT GÜVEN"
-      },
-      {
-          "CustomerCode": "D5E000810",
-          "CustomerName": "MUSTAFA GÜVEN"
-      },
-      {
-          "CustomerCode": "D5E000920",
-          "CustomerName": "CUMHUR OSMANOĞLU"
-      },
-      {
-          "CustomerCode": "D5E003421",
-          "CustomerName": "HATİCE DİNÇ"
-      },
-      {
-          "CustomerCode": "D5E066763",
-          "CustomerName": "TOPÇUOĞULLARI ENR.İNŞ.PET.TAAH.HİZ.SAN.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E000603",
-          "CustomerName": "RECEP GENÇ"
-      },
-      {
-          "CustomerCode": "D5E002953",
-          "CustomerName": "ENGİN ARICAN"
-      },
-      {
-          "CustomerCode": "D5E003935",
-          "CustomerName": "MURAT SEVİNÇ"
-      },
-      {
-          "CustomerCode": "D5E000619",
-          "CustomerName": "YAŞAR YANIK"
-      },
-      {
-          "CustomerCode": "D5E000665",
-          "CustomerName": "TUNCERLER GIDA TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E001356",
-          "CustomerName": "COŞKUN AKTAŞ"
-      },
-      {
-          "CustomerCode": "D5E003020",
-          "CustomerName": "ULUBEY PETROL LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E000659",
-          "CustomerName": "FIRAT ÖZCAN"
-      },
-      {
-          "CustomerCode": "D5E135123",
-          "CustomerName": "UĞUR AVCI"
-      },
-      {
-          "CustomerCode": "D5E000769",
-          "CustomerName": "PİLOT AKARYAKIT NAKLİYE İNŞAAT LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E001101",
-          "CustomerName": "ÜMİT YILDIZ"
-      },
-      {
-          "CustomerCode": "D5E004822",
-          "CustomerName": "ERGÜL AKKAYA"
-      },
-      {
-          "CustomerCode": "D5E003310",
-          "CustomerName": "GÜZELHAN İNŞ. LTD. ŞTİ"
-      },
-      {
-          "CustomerCode": "D5E003176",
-          "CustomerName": "İBRAHİM KÖKSAL"
-      },
-      {
-          "CustomerCode": "D5E171439",
-          "CustomerName": "BERATİ YÜCEL"
-      },
-      {
-          "CustomerCode": "D5E001639",
-          "CustomerName": "ERSİN AZDENİZ"
-      },
-      {
-          "CustomerCode": "D5E118170",
-          "CustomerName": "ÖMER DOKGÖZ"
-      },
-      {
-          "CustomerCode": "D5E001361",
-          "CustomerName": "METİN KÖKSAL"
-      },
-      {
-          "CustomerCode": "D5E001280",
-          "CustomerName": "HASAN KESKİN"
-      },
-      {
-          "CustomerCode": "D5E003718",
-          "CustomerName": "ERGİN KANDEMİR"
-      },
-      {
-          "CustomerCode": "D5E098830",
-          "CustomerName": "ULAŞ ÇEKİÇ"
-      },
-      {
-          "CustomerCode": "D5E122561",
-          "CustomerName": "BAHAR SELİN ERSOY"
-      },
-      {
-          "CustomerCode": "D5E001222",
-          "CustomerName": "AYŞE ATAŞ"
-      },
-      {
-          "CustomerCode": "D5E001282",
-          "CustomerName": "HAMİ VAYNİ"
-      },
-      {
-          "CustomerCode": "D5E003446",
-          "CustomerName": "SEMİHA PAZAR"
-      },
-      {
-          "CustomerCode": "D5E127552",
-          "CustomerName": "MUSA HÜSEM"
-      },
-      {
-          "CustomerCode": "D5E144280",
-          "CustomerName": "KADİR ERTÜRK"
-      },
-      {
-          "CustomerCode": "D5E163311",
-          "CustomerName": "MEVLÜT ÇITAK"
-      },
-      {
-          "CustomerCode": "D5E151689",
-          "CustomerName": "RUKİYE DEMİREL EKER"
-      },
-      {
-          "CustomerCode": "D5E151939",
-          "CustomerName": "İPEK GÜNDÜZ"
-      },
-      {
-          "CustomerCode": "D5E019821",
-          "CustomerName": "GÜVEN DEMİREL"
-      },
-      {
-          "CustomerCode": "D5E001349",
-          "CustomerName": "AHMET KESKİN"
-      },
-      {
-          "CustomerCode": "D5E003532",
-          "CustomerName": "SERDAR KORKMAZ"
-      },
-      {
-          "CustomerCode": "D5E154023",
-          "CustomerName": "MERTCAN YALÇINKAYA"
-      },
-      {
-          "CustomerCode": "D5E163947",
-          "CustomerName": "ASTÜRK AKAR.TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E153660",
-          "CustomerName": "NAMİ ŞAHİN"
-      },
-      {
-          "CustomerCode": "D5E023027",
-          "CustomerName": "OĞUZ-BARAN TUR.İNŞ.NAK.GIDA SAN. VE TİC.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E131228",
-          "CustomerName": "FARUK GÖZÜTOK"
-      },
-      {
-          "CustomerCode": "D5E136035",
-          "CustomerName": "YUNUS LEVENT TOPALOĞLU_AKYAZI"
-      },
-      {
-          "CustomerCode": "50019575",
-          "CustomerName": "ÇETİN ÇELİK"
-      },
-      {
-          "CustomerCode": "D5E150672",
-          "CustomerName": "AYŞEGÜL SEDA SARI"
-      },
-      {
-          "CustomerCode": "D5E000002",
-          "CustomerName": "OSMAN FIRTINA"
-      },
-      {
-          "CustomerCode": "D5E068270",
-          "CustomerName": "AKRAMAR GIDA KIR.TEM.SAN.TİC.İTH. VE İHR.LTD.ŞTİ."
-      },
-      {
-          "CustomerCode": "D5E001400",
-          "CustomerName": "YÜKSEL KARAMAN"
-      },
-      {
-          "CustomerCode": "D5E167478",
-          "CustomerName": "CAN IŞIK"
-      },
-      {
-          "CustomerCode": "D5E071233",
-          "CustomerName": "PAŞA BULU"
-      },
-      {
-          "CustomerCode": "D5E113978",
-          "CustomerName": "SEZAYİ AKSU"
-      },
-      {
-          "CustomerCode": "D5E015917",
-          "CustomerName": "AYLA GÜLTEKİN"
-      },
-      {
-          "CustomerCode": "D5E003242",
-          "CustomerName": "MUSTAFA KARAKÖSE"
-      }
-  ]
-}
+[
+        {
+            "CustomerCode": "D5E000851",
+            "CustomerName": "ABDULLAH USTA",
+            "CustomerPhoneNumber": "5063481427",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E172002",
+            "CustomerName": "ADEM CİVELEK",
+            "CustomerPhoneNumber": "05379282512",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E099075",
+            "CustomerName": "ADEM ÖZKUL",
+            "CustomerPhoneNumber": "5305190218",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003734",
+            "CustomerName": "AGAH ERARSLAN",
+            "CustomerPhoneNumber": "5325058212",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001063",
+            "CustomerName": "AHMET TOP",
+            "CustomerPhoneNumber": "5385633315",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003049",
+            "CustomerName": "ALİ EREN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000967",
+            "CustomerName": "ALİ GÜVEN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003208",
+            "CustomerName": "ALİ KAYNAKÇI",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000830",
+            "CustomerName": "ALİ SAİT ÇITAK",
+            "CustomerPhoneNumber": "5355867548",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E077708",
+            "CustomerName": "ALTUĞ ATAHAN ATAŞ",
+            "CustomerPhoneNumber": "05332551306",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000658",
+            "CustomerName": "AYDIN GÜNGÖR",
+            "CustomerPhoneNumber": "5394939360",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000844",
+            "CustomerName": "AYDIN ÖZGÜL",
+            "CustomerPhoneNumber": "5339622243",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000623",
+            "CustomerName": "AYHAN KARAMEŞE",
+            "CustomerPhoneNumber": "5393937535",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E009223",
+            "CustomerName": "AYHAN POYRAZ",
+            "CustomerPhoneNumber": "5384679333",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E130636",
+            "CustomerName": "AYŞE ÖZKUL",
+            "CustomerPhoneNumber": "5435417736",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000925",
+            "CustomerName": "BELGÜZER DİKMEN",
+            "CustomerPhoneNumber": "5323712308",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E130660",
+            "CustomerName": "BENAN ŞİMŞEK",
+            "CustomerPhoneNumber": "5334669303",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000883",
+            "CustomerName": "BÖLÜKBAŞLAR PETROL LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5364985404",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000884",
+            "CustomerName": "BURAOĞLU GIDA NAK.İNŞ.TEKS.DAY.TÜK.MALL.SAN. ve DIŞ TİC.LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5342827649",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000651",
+            "CustomerName": "CAFER ARICAN",
+            "CustomerPhoneNumber": "5396240395",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000760",
+            "CustomerName": "CAFER ŞAHİN",
+            "CustomerPhoneNumber": "5346439808",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003655",
+            "CustomerName": "CAFER ŞAHİN -2",
+            "CustomerPhoneNumber": "5376789187",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E013034",
+            "CustomerName": "CELAL CEYLAN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000870",
+            "CustomerName": "CEMAL ÇELİKKOL",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001100",
+            "CustomerName": "CEMİL ÇÖRLÜ",
+            "CustomerPhoneNumber": "5314907609",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E130659",
+            "CustomerName": "CİHAN ULUGÖL",
+            "CustomerPhoneNumber": "5386268642",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001356",
+            "CustomerName": "COŞKUN AKTAŞ",
+            "CustomerPhoneNumber": "5458851881",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003436",
+            "CustomerName": "COŞKUN ŞAHİN",
+            "CustomerPhoneNumber": "5318529182",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000920",
+            "CustomerName": "CUMHUR OSMANOĞLU",
+            "CustomerPhoneNumber": "5326302949",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003313",
+            "CustomerName": "ÇEBİ HİZ.İŞL.BİLG.İNŞ.NAK.TUR.TİC.LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5325048780",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000988",
+            "CustomerName": "EMBİYA ÇOŞĞUN",
+            "CustomerPhoneNumber": "5306915701",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E012626",
+            "CustomerName": "EMİNE DİLMEN",
+            "CustomerPhoneNumber": "5378169802",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E002953",
+            "CustomerName": "ENGİN ARICAN",
+            "CustomerPhoneNumber": "5339270565",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001125",
+            "CustomerName": "ENGİN KEFELİ",
+            "CustomerPhoneNumber": "5437318143",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003662",
+            "CustomerName": "ENGİN TOPAL",
+            "CustomerPhoneNumber": "5326826127",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E021594",
+            "CustomerName": "ERCAN ÇELİK",
+            "CustomerPhoneNumber": "5367192896",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E014356",
+            "CustomerName": "ERCAN YALÇINKAYA",
+            "CustomerPhoneNumber": "5386292880",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003583",
+            "CustomerName": "ERDİNÇ ARICAN",
+            "CustomerPhoneNumber": "5354467015",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000921",
+            "CustomerName": "ERDOĞDU TARIM ÜRN.GIDANAK.MOB.İNŞ.SAN.PAZ. VE TİC.LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5388147973",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E062412",
+            "CustomerName": "ERGİN YAYLACI",
+            "CustomerPhoneNumber": "5398219692",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E004822",
+            "CustomerName": "ERGÜL AKKAYA",
+            "CustomerPhoneNumber": "5343365200",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E165900",
+            "CustomerName": "ERKAN POYRAZ",
+            "CustomerPhoneNumber": "05417320452",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000635",
+            "CustomerName": "EROL BATTAL",
+            "CustomerPhoneNumber": "5344141901",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E121661",
+            "CustomerName": "EROL DEMİR",
+            "CustomerPhoneNumber": "5327450848",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E060212",
+            "CustomerName": "EROL YILMAZ",
+            "CustomerPhoneNumber": "5355456242",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000928",
+            "CustomerName": "ERSAN AKDOĞAN",
+            "CustomerPhoneNumber": "5309611706",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000828",
+            "CustomerName": "ERSAN KARAMEŞE",
+            "CustomerPhoneNumber": "5358748170",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000889",
+            "CustomerName": "EVREN HABİL",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000578",
+            "CustomerName": "FAHRİ TIKIL",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E169499",
+            "CustomerName": "FATMA AKSU",
+            "CustomerPhoneNumber": "05377970187",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003243",
+            "CustomerName": "FATMA KARADUMAN",
+            "CustomerPhoneNumber": "5368590504",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E062807",
+            "CustomerName": "FEVZÜLLAH METE",
+            "CustomerPhoneNumber": "5356223040",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E135289",
+            "CustomerName": "FEYZİ ŞENER",
+            "CustomerPhoneNumber": "5358160052",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000659",
+            "CustomerName": "FIRAT ÖZCAN",
+            "CustomerPhoneNumber": "5301161908",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E151082",
+            "CustomerName": "FİSKOBİRLİK ENTG.FIN.İŞL.TES.SAN. VE TİC.A.Ş. - GÖLKÖY",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E151286",
+            "CustomerName": "FİSKOBİRLİK ENTG.FIN.İŞL.TES.SAN. VE TİC.A.Ş. - GÜRGENTEPE",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E151083",
+            "CustomerName": "FİSKOBİRLİK ENTG.FIN.İŞL.TES.SAN. VE TİC.A.Ş. - ULUBEY",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E063918",
+            "CustomerName": "GÜLER TÜRKCAN",
+            "CustomerPhoneNumber": "5374156652",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E120032",
+            "CustomerName": "GÜLÜSTAN PELİT",
+            "CustomerPhoneNumber": "5469006252",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003450",
+            "CustomerName": "GÜLÜZAR DALKIÇ",
+            "CustomerPhoneNumber": "5326638699",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000895",
+            "CustomerName": "GÜNGÖR YÜCEL",
+            "CustomerPhoneNumber": "5424269127",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E025947",
+            "CustomerName": "HADİ AKTAŞ",
+            "CustomerPhoneNumber": "5464466152",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E091909",
+            "CustomerName": "HAKAN DOĞAN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003958",
+            "CustomerName": "HALİL KAYA",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000845",
+            "CustomerName": "HALİS GÜNDÜZ",
+            "CustomerPhoneNumber": "5358684917",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000664",
+            "CustomerName": "HALİS YILMAZ",
+            "CustomerPhoneNumber": "5368781726",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E137928",
+            "CustomerName": "HATİCE AY",
+            "CustomerPhoneNumber": "5365718409",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003421",
+            "CustomerName": "HATİCE DİNÇ",
+            "CustomerPhoneNumber": "5428949673",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000902",
+            "CustomerName": "HÜSEYİN TOPAL",
+            "CustomerPhoneNumber": "5339270588",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000600",
+            "CustomerName": "İLHAN COŞKUN",
+            "CustomerPhoneNumber": "5357838373",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003278",
+            "CustomerName": "İLHAN DEMİREL",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001107",
+            "CustomerName": "İRFAN ESEN",
+            "CustomerPhoneNumber": "5354457169",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000907",
+            "CustomerName": "İRFAN İNAN",
+            "CustomerPhoneNumber": "05416189578",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E002842",
+            "CustomerName": "İSKENDER ÇALIŞKAN",
+            "CustomerPhoneNumber": "5374087952",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E002954",
+            "CustomerName": "KADEM YİĞİT",
+            "CustomerPhoneNumber": "5364662226",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000924",
+            "CustomerName": "KELEBEK GIDA İNŞ.TAAH.ELK.NAK.TAR.AKR.PAZ.SAN. VE TİC.LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5379429152",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000655",
+            "CustomerName": "KEMAL AYRANCI",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000615",
+            "CustomerName": "KIYMET YÜCEL",
+            "CustomerPhoneNumber": "5344280196",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003061",
+            "CustomerName": "LEVENT GÜVEN",
+            "CustomerPhoneNumber": "5344164569",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E016400",
+            "CustomerName": "LEYLA DAĞIDIR",
+            "CustomerPhoneNumber": "5359897414",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E167212",
+            "CustomerName": "MEHMET FATİH KABACI",
+            "CustomerPhoneNumber": "05336342408",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001098",
+            "CustomerName": "MEHMET TÜRKYILMAZ",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E043556",
+            "CustomerName": "MUHAMMED KIR",
+            "CustomerPhoneNumber": "5375809856",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E161875",
+            "CustomerName": "MUHAMMET KESKİN",
+            "CustomerPhoneNumber": "05456025239",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E002986",
+            "CustomerName": "MUHARREM AKKAYA",
+            "CustomerPhoneNumber": "5352748547",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E164108",
+            "CustomerName": "MURAT ÇELENK",
+            "CustomerPhoneNumber": "05326302931",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003935",
+            "CustomerName": "MURAT SEVİNÇ",
+            "CustomerPhoneNumber": "5305520452",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000584",
+            "CustomerName": "MUSTAFA DEMİREL",
+            "CustomerPhoneNumber": "5378791052",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000810",
+            "CustomerName": "MUSTAFA GÜVEN",
+            "CustomerPhoneNumber": "5358878498",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001436",
+            "CustomerName": "MUSTAFA TÜRKMEN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001435",
+            "CustomerName": "MUSTAFA YILMAZ",
+            "CustomerPhoneNumber": "5377281690",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E140399",
+            "CustomerName": "MUZAFFER AKGÜL",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E057290",
+            "CustomerName": "NAMIK GENÇ",
+            "CustomerPhoneNumber": "5353224142",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E002997",
+            "CustomerName": "NAMİ ŞAHİN",
+            "CustomerPhoneNumber": "5336349620",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E175566",
+            "CustomerName": "NAZMİYE ÇELENK",
+            "CustomerPhoneNumber": "05414521122",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001069",
+            "CustomerName": "NECATİ DALKIÇ",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E174035",
+            "CustomerName": "NECMETTİN YÜCESOY",
+            "CustomerPhoneNumber": "05333458562",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003494",
+            "CustomerName": "NESRİN YAPRAK",
+            "CustomerPhoneNumber": "5332135239",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E140089",
+            "CustomerName": "NEŞET ŞAHİN",
+            "CustomerPhoneNumber": "5352615926",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003071",
+            "CustomerName": "NEVZAT GÜRSOY",
+            "CustomerPhoneNumber": "05393475815",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003535",
+            "CustomerName": "NİMET ERKOÇ",
+            "CustomerPhoneNumber": "5422215200",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000978",
+            "CustomerName": "NİYAZİ KÖKEN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E160365",
+            "CustomerName": "OĞUZCAN TAŞDELEN",
+            "CustomerPhoneNumber": "05061720438",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "050019446",
+            "CustomerName": "OKAN CUMHUR ÇUHADAR",
+            "CustomerPhoneNumber": "5363734986",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000650",
+            "CustomerName": "OKTAY ARICAN",
+            "CustomerPhoneNumber": "5386016563",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E004006",
+            "CustomerName": "ONUR YILMAZ",
+            "CustomerPhoneNumber": "5396277437",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000785",
+            "CustomerName": "OSMAN BAY",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E106071",
+            "CustomerName": "OSMAN ERKOÇ AKARYAKIT DAN.İNS.NAK. GIDA TUR.TİC.LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5367732793",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000769",
+            "CustomerName": "PİLOT AKARYAKIT NAKLİYE İNŞAAT LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5452327252",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000597",
+            "CustomerName": "RECEP DEMİREL",
+            "CustomerPhoneNumber": "5556282847",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000603",
+            "CustomerName": "RECEP GENÇ",
+            "CustomerPhoneNumber": "5377114148",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000602",
+            "CustomerName": "RECEP GÜNEY",
+            "CustomerPhoneNumber": "5366983865",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000622",
+            "CustomerName": "RIDVAN AKDOĞAN",
+            "CustomerPhoneNumber": "5353889982",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003121",
+            "CustomerName": "SAFFETTİN YALÇINKAYA",
+            "CustomerPhoneNumber": "5355506446",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003298",
+            "CustomerName": "SALİH AYDOĞAN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000642",
+            "CustomerName": "SALİH ÖZKAN",
+            "CustomerPhoneNumber": "5533070979",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000892",
+            "CustomerName": "SALİH ÖZMEN",
+            "CustomerPhoneNumber": "5333490830",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000938",
+            "CustomerName": "SALİM ŞAHİN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000589",
+            "CustomerName": "SEBAHATTİN KARAMEŞE",
+            "CustomerPhoneNumber": "5357415587",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000882",
+            "CustomerName": "SEDAT KARAAHMETOĞLU",
+            "CustomerPhoneNumber": "5325794716",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000616",
+            "CustomerName": "SEFER TUNÇ",
+            "CustomerPhoneNumber": "5334117442",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000963",
+            "CustomerName": "SELAHATTİN TOPAL",
+            "CustomerPhoneNumber": "5326349353",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E134768",
+            "CustomerName": "SELVİ SENEM TÜRK",
+            "CustomerPhoneNumber": "5323347352",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000936",
+            "CustomerName": "SERÇİL ÇELENK",
+            "CustomerPhoneNumber": "5354466539",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E172308",
+            "CustomerName": "SERGEN AKERİK",
+            "CustomerPhoneNumber": "05469079752",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000596",
+            "CustomerName": "SERVET AYDIN",
+            "CustomerPhoneNumber": "5393391800",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000004",
+            "CustomerName": "SEZAİ AKPINAR",
+            "CustomerPhoneNumber": "05446050651",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E105322",
+            "CustomerName": "SİNAN YİĞİT",
+            "CustomerPhoneNumber": "5348936656",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001096",
+            "CustomerName": "SULTAN İNCE",
+            "CustomerPhoneNumber": "5414980052",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001117",
+            "CustomerName": "SUNULLAH TOP",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003956",
+            "CustomerName": "SÜLEYMAN YİĞİT",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000607",
+            "CustomerName": "ŞANSER DURAN",
+            "CustomerPhoneNumber": "5378991872",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000624",
+            "CustomerName": "ŞENEL ÇELİKKOL",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E105296",
+            "CustomerName": "ŞENEL TAŞDELEN",
+            "CustomerPhoneNumber": "5363217879",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003241",
+            "CustomerName": "ŞENOL TAŞDELEN",
+            "CustomerPhoneNumber": "5333170999",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E131744",
+            "CustomerName": "ŞENSU ERARSLAN",
+            "CustomerPhoneNumber": "5383299362",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E117733",
+            "CustomerName": "ŞEREF KARAKOÇ",
+            "CustomerPhoneNumber": "05325777562",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E158612",
+            "CustomerName": "ŞEREF YİĞİT",
+            "CustomerPhoneNumber": "05465475077",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000605",
+            "CustomerName": "ŞEVKET SOMUNCU",
+            "CustomerPhoneNumber": "5399759284",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E115917",
+            "CustomerName": "ŞÜKRÜ YILMAZ",
+            "CustomerPhoneNumber": "5327956924",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000911",
+            "CustomerName": "ŞÜKRÜ YÜCESOY",
+            "CustomerPhoneNumber": "5350629350",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E066763",
+            "CustomerName": "TOPÇUOĞULLARI ENR.İNŞ.PET.TAAH.HİZ.SAN.LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5417413005",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000665",
+            "CustomerName": "TUNCERLER GIDA TİC.LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5436541210",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E077877",
+            "CustomerName": "TURAN AKDAL",
+            "CustomerPhoneNumber": "5383661271",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E135123",
+            "CustomerName": "UĞUR AVCI",
+            "CustomerPhoneNumber": "5367342861",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003020",
+            "CustomerName": "ULUBEY PETROL LTD.ŞTİ.",
+            "CustomerPhoneNumber": "5322668451",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003675",
+            "CustomerName": "ÜMİT DEMİREL",
+            "CustomerPhoneNumber": "5320124830",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001101",
+            "CustomerName": "ÜMİT YILDIZ",
+            "CustomerPhoneNumber": "5366169190",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000646",
+            "CustomerName": "ÜSTÜN ÇIRPAN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003926",
+            "CustomerName": "YASEMİN YİĞİT",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000610",
+            "CustomerName": "YAŞAR DEMİRKALE",
+            "CustomerPhoneNumber": "5325567639",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E140090",
+            "CustomerName": "YAŞAR KARADENİZ",
+            "CustomerPhoneNumber": "5335127906",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000619",
+            "CustomerName": "YAŞAR YANIK",
+            "CustomerPhoneNumber": "5323005199",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000812",
+            "CustomerName": "YENER YAŞAR",
+            "CustomerPhoneNumber": "5354114913",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E163305",
+            "CustomerName": "YILMAZ ÇELENK",
+            "CustomerPhoneNumber": "05326302331",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003187",
+            "CustomerName": "YILMAZ ŞENTÜRK",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000888",
+            "CustomerName": "YURDAKUL GÜL",
+            "CustomerPhoneNumber": "5352477632",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E121131",
+            "CustomerName": "YUSUF ZİYA ŞAHİN",
+            "CustomerPhoneNumber": "5333177853",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000636",
+            "CustomerName": "YÜCEL AKKAYA",
+            "CustomerPhoneNumber": "5399759253",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000860",
+            "CustomerName": "YÜKSEL ARICAN",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003802",
+            "CustomerName": "ZAFER GÜNEŞ",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E157651",
+            "CustomerName": "ZAFER PİLİÇ TAVUKÇULUK GIDA TAR.SAN.VE TİC.LTD.ŞTİ",
+            "CustomerPhoneNumber": "05339270551",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E001011",
+            "CustomerName": "ZEKAİ OKAN ŞAHİN",
+            "CustomerPhoneNumber": "5369420001",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E000740",
+            "CustomerName": "ZEKİ YARDİBİ",
+            "CustomerPhoneNumber": "5369346257",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E003124",
+            "CustomerName": "ZEKİYE TAÇ",
+            "TerritoryCode": "TERR050111"
+        },
+        {
+            "CustomerCode": "D5E133002",
+            "CustomerName": "ZÜLFİKAR YEŞİLYURT",
+            "CustomerPhoneNumber": "5339273827",
+            "TerritoryCode": "TERR050111"
+        }
+    ]
