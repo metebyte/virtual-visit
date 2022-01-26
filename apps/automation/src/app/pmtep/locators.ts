@@ -25,10 +25,10 @@ export class PMTEPLocators {
     '//div[@class="select2-result-repository__title"]'
   )
   static transporterContactTab: By = By.xpath(
-    '//li[@role="presentation"]/a[@href="#user_411949"]'
+    '//li[@role="presentation"]/a[@href="#user_424416"]'
   )
   static changeDealerButton: By = By.xpath(
-    '//div[@id="subtab_411949"]//div[@class="pull-right cutom-buttons"]/button[@data-target="#change-pos"]'
+    '//div[@id="subtab_424416"]//div[@class="pull-right cutom-buttons"]/button[@data-target="#change-pos"]'
   )
   static changeDealerModalInput: By = By.xpath(
     '//div[@class="modal in"]//input[@id="txt_ChangePos"]'
@@ -37,16 +37,16 @@ export class PMTEPLocators {
     '//div[@class="modal in"]//button[@class="btn btn-blue btn_changePos"]'
   )
   static transporterContactStatusSelect: By = By.xpath(
-    '//div[@id="subtab_411949"]//select[@name="Status"]'
+    '//div[@id="subtab_424416"]//select[@name="Status"]'
   )
   static transporterContactIsMainCheckBox: By = By.xpath(
-    '//input[@data-id="411949" and contains(@class, "custom-checkbox ck_IsMain")]'
+    '//input[@data-id="424416" and contains(@class, "custom-checkbox ck_IsMain")]'
   )
   static transporterContactTypeSelect: By = By.xpath(
-    '//div[@id="subtab_411949"]//select[@name="Contact_Type_ID"]'
+    '//div[@id="subtab_424416"]//select[@name="Contact_Type_ID"]'
   )
   static transporterContactUpdateButton: By = By.xpath(
-    '//div[@id="subtab_411949"]//button[@data-id="411949" and @name="js_DefaultInfo"]'
+    '//div[@id="subtab_424416"]//button[@data-id="424416" and @name="js_DefaultInfo"]'
   )
   static transporterContactUpdateAlertClose: By = By.xpath(
     '//div[contains(@class, "alert alert-success")]/button[contains(@type, "button") and contains(@class, "close")]'
