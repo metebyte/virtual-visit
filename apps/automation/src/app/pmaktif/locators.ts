@@ -9,6 +9,12 @@ export class PMAKTIFLocators {
   static virtualVisitButton: By = By.xpath(
     '//a[contains(@class, "chefs-shop-button")]'
   )
+  static performansVideoIFrame: By = By.xpath(
+    '//iframe[contains(@class, "sp-fancybox-iframe")]'
+  )
+  static closeFancyBoxButton: By = By.xpath(
+    '//div[@id="close-button-164632048205"]'
+  )
   static virtualVisitIFrame: By = By.xpath('//iframe[@id="ommaPlayer"]')
   static playButton: By = By.xpath('//ui-control-play-big')
   static videoDiv: By = By.xpath('//div[@id="sp_root"]')

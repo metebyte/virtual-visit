@@ -32,6 +32,29 @@ export class PMAKTIF {
     await this.browser.wait(until.urlContains('feed'), 10000).then(async () => {
       await this.browser.get('https://pmaktif.com/secure/virtual-visit')
 
+      try {
+        await this.browser
+          .wait(
+            until.elementLocated(PMAKTIFLocators.performansVideoIFrame),
+            10000
+          )
+          .then(async (frame) => {
+            await this.browser.switchTo().frame(frame)
+            await this.browser
+              .wait(
+                until.elementLocated(PMAKTIFLocators.closeFancyBoxButton),
+                10000
+              )
+              .then(async (closeButton) => {
+                await closeButton.isDisplayed().then(async () => {
+                  await closeButton.click()
+                })
+              })
+          })
+      } catch {
+        console.log('No performans video')
+      }
+
       await this.browser
         .wait(until.elementLocated(PMAKTIFLocators.virtualVisitIFrame), 10000)
         .then(async (frame) => {
