@@ -10,9 +10,11 @@ const pmtep = new PMTEP(webDriver)
 const pmaktif = new PMAKTIF(webDriver2)
 
 let number = 1
+let dealerTotal = dealerData.length
 
 asyncForEach(dealerData, async (data) => {
   if (number == 1) await logInPMTEP()
+  console.log(`Kalan Bayii Sayısı: ${dealerTotal - number}`)
   console.log(`${number++} - ${data.CustomerCode} - ${data.CustomerName}`)
   await doSteps(data.CustomerCode)
 })
