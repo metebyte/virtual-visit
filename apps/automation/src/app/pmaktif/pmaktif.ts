@@ -55,13 +55,9 @@ export class PMAKTIF {
           const surveyProgress = await this.browser.wait(
             until.elementLocated(PMAKTIFLocators.surveyProgress)
           )
-          const inlinePlayButton = await this.browser.wait(
-            until.elementLocated(PMAKTIFLocators.inlinePlayButton)
-          )
           await this.browser.sleep(500)
           await this.browser.actions().click(surveyProgress).perform()
           await this.browser.sleep(500)
-          await this.browser.actions().click(inlinePlayButton).perform()
         })
 
       await this.browser
@@ -74,7 +70,8 @@ export class PMAKTIF {
         .wait(
           until.elementIsVisible(
             await this.browser.findElement(PMAKTIFLocators.surveyEmoji)
-          )
+          ),
+          20000
         )
         .click()
 
